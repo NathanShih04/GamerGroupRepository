@@ -11,7 +11,16 @@ This HTML is setup as a fragment allowing it to be "included" by other HTML file
             <!-- url_for is a Jinja2 pre-processor that finds route from function name (def) -->
             <a class="nav-link" href={{ url_for('index') }}>Portfolio</a>
             <a class="nav-link" href={{ url_for('kurtis') }}>Kurtis</a>
+            <div class="dropdown">
+                <button>resources</button>
+                <div class="dropdown">
+                    <a href="https://github.com/NathanShih04/GamerGroupRepository/projects/1">Group Scrum Board</a>
+                    <a href="https://academy.hubspot.com/">Collaborative Notes Google Document</a>
+                    <a href="https://github.com/NathanShih04/GamerGroupRepository">General Github</a>
+                </div>
+            </div>
             <a class="nav-link" href={{ url_for('nathan') }}>Nathan</a>
+
             <a class="nav-link" href={{ url_for('everitt') }}>Everitt</a>
             <a class="nav-link" href={{ url_for('colin') }}>Colin</a>
             <!-- stub is shown using the name of the route -->
