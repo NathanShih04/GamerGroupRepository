@@ -21,15 +21,18 @@ def kurtis():
 def nathan():
     return render_template("nathan.html")
 
+@app.route('/colin/')
+def colin():
+    return render_template("colin.html")
 
 @app.route('/everitt/')
 def everitt():
     return render_template("everitt.html")
 
 
-@app.route('/stub/')
-def stub():
-    return render_template("stub.html")
+@app.route('/jackson/')
+def jackson():
+    return render_template("jackson.html")
 
 @app.route('/greet', methods=['GET', 'POST'])
 def greet():
