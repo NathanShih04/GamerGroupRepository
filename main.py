@@ -22,14 +22,15 @@ def walruses():
     return render_template("walruses.html")
 
 
-@app.route('/hawkers/')
-def hawkers():
-    return render_template("hawkers.html")
+@app.route('/everitt/')
+def everitt():
+    return render_template("everitt.html")
 
 
 @app.route('/stub/')
 def stub():
     return render_template("stub.html")
+
 @app.route('/greet', methods=['GET', 'POST'])
 def greet():
     # submit button has been pushed
