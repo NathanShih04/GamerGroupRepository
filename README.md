@@ -5,17 +5,17 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
   
   Scrum Master - Nathan Shih
     
-    **#### Scores:**
+    Scores:
       
-      Nathan - 8, Properly and efficiently managed scrum board and team members
+      Nathan - 8, Properly and efficiently managed scrum board and team members, managed top tabs and greeting
       
-      Everitt - 8, designed wireframe, contributed to website
+      Everitt - 8, contributed to website - managed wireframe and greetings
       
-      Jackson - 8, contributed to website
+      Jackson - 8, contributed to website - managed top tabs, and greetings
       
-      Colin - 8, contributed to website
+      Colin - 8, contributed to website - managed readme.md and greetings
       
-      Kurtis - 8, contributed to website
+      Kurtis - 8, contributed to website - managed drop down menus and greeting
   
   Designer/Wireframe - Everitt Cheng
   
