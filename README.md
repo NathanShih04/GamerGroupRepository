@@ -5,7 +5,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
   
   Scrum Master - Nathan Shih
     
-    ### Scores:
+    **#### Scores:**
       
       Nathan - 8, Properly and efficiently managed scrum board and team members
       
