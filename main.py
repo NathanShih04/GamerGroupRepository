@@ -43,6 +43,42 @@ def greet():
             return render_template("greet.html", name=name)
     # starting and empty input default
     return render_template("greet.html", name="World")
+@app.route('/jgreet', methods=['GET', 'POST'])
+def jgreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("jacksongreet.html", name=name)
+    # starting and empty input default
+    return render_template("jacksongreet.html", name="World")
+@app.route('/ngreet', methods=['GET', 'POST'])
+def ngreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("nathangreet.html", name=name)
+    # starting and empty input default
+    return render_template("nathangreet.html", name="World")
+@app.route('/egreet', methods=['GET', 'POST'])
+def egreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("everittgreet.html", name=name)
+    # starting and empty input default
+    return render_template("everittgreet.html", name="World")
+@app.route('/cgreet', methods=['GET', 'POST'])
+def cgreet():
+    # submit button has been pushed
+    if request.form:
+        name = request.form.get("name")
+        if len(name) != 0:  # input field has content
+            return render_template("colingreet.html", name=name)
+    # starting and empty input default
+    return render_template("colingreet.html", name="World")
 
 
 # runs the application on the development server
