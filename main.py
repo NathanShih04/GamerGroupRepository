@@ -79,6 +79,22 @@ def cgreet():
             return render_template("greet/colingreet.html", name=name)
     # starting and empty input default
     return render_template("greet/colingreet.html", name="World")
+@app.route('/kabout/')
+def kabout():
+    return render_template("about/kurtisabout.html")
+@app.route('/eabout/')
+def eabout():
+    return render_template("about/everittabout.html")
+@app.route('/jabout/')
+def jabout():
+    return render_template("about/jacksonabout.html")
+@app.route('/nabout/')
+def nabout():
+    return render_template("about/nathanabout.html")
+@app.route('/cabout/')
+def cabout():
+    return render_template("about/colinabout.html")
+
 
 
 # runs the application on the development server
