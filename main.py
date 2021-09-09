@@ -95,6 +95,9 @@ def nabout():
 def cabout():
     return render_template("about/colinabout.html")
 
+@app.route('/clicker/')
+def clicker():
+    return render_template("clicker.html")
 
 
 # runs the application on the development server
