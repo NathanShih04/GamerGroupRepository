@@ -23,3 +23,6 @@ Colin Howard, KoolKidKai, Tasks: (clean up scrum board, fix errors within binary
 Kurtis Kwan, Naevy, Tasks: (Change fonts and colors, pick out images to use, fix links)
 Everitt Cheng, NinjaBreadLord, Tasks: (Organize scrumboard, helped pick images)
 Jackson Golding,  K3wlAidMan, Tasks: (Polish notes, edited navBar, changed about pages)
+
+All Commits https://docs.google.com/document/d/1DkJ5t-Ok888A9uCo-oFmpcoHw1xy7CSB7ooXSjgXTsM/edit?usp=sharing
+
