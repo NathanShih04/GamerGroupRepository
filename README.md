@@ -6,8 +6,20 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 **Sprint 3, 4 Week 3**
   
   We have learned and solidified understanding of binary thorughout the week. We have also worked on cleaning up code and optimizing our website's experience. 
-
-
+  
 **POP QUIZ**
 
 Scrum Board: https://github.com/NathanShih04/GamerGroupRepository/projects/1
+
+GitHub Repo Contributers: Kurtis Kwan(Naevy), Nathan Shih(NathanShih04), Everitt Cheng(NinjaBreadLord), Jackson Golding(K3wlAidMan), Colin Howard(KoolKidKai)
+
+Pairs and Journals: 
+- Kurtis, Nathan, Jackson - 
+- Colin and Everitt - 
+
+Members: 
+Nathan Shih, NathanShih04, Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
+Colin Howard, KoolKidKai, Tasks: (clean up scrum board, fix errors within binary page)
+Kurtis Kwan, Naevy, Tasks: (Change fonts and colors, pick out images to use, fix links)
+Everitt Cheng, NinjaBreadLord, Tasks: (Organize scrumboard, helped pick images)
+Jackson Golding,  K3wlAidMan, Tasks: (Polish notes, edited navBar, changed about pages)
