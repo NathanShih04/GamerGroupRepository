@@ -8,3 +8,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
   We have learned and solidified understanding of binary thorughout the week. We have also worked on cleaning up code and optimizing our website's experience. 
 
 
+**POP QUIZ**
+
+Scrum Board: https://github.com/NathanShih04/GamerGroupRepository/projects/1
