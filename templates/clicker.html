@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="/templates/cssFiles/style.css">
 
 <!-- Search for all the Hack: below for hack-a-thon and mini-lab requirements -->
 
@@ -13,8 +12,8 @@
 <!-- Hack: Set bulbs and pass as variables via Python render_template
            add new images (ie PNGs) to project -->
 <!-- use your PNGs as default -->
-{% set imgBulbOn = "/static/tortilla happy.png" %}
-{% set imgBulbOff = "/static/tortilla.png" %}
+{% set imgBulbOn = "/static/assets/bulb_on.gif" %}
+{% set imgBulbOff = "/static/assets/bulb_off.png" %}
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
 
@@ -146,11 +145,8 @@
                 <table class="table">
                     <tr>
                         {% for i in range(BITS) %}
-                            <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ "/static/tortilla.png" }}" alt="" width="90" height="Auto">
+                            <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
                                 <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
-                            </td>
-                            <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ "/static/tortilla happy.png" }}" alt="" width="90" height="Auto">
-                                <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOff }}</button>
                             </td>
                         {% endfor %}
                     </tr>
