@@ -1,8 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 h1 {
-    color: navy;
-    margin-left: 20px;
+    font-family: Georgia, serif;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1.0em;
+    margin-bottom: 1em;
+    margin-inside: 0.5em;
 }
