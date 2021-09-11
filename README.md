@@ -12,8 +12,9 @@ Pairs and Journals:
 - Kurtis, Nathan, Jackson - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
 - Colin and Everitt - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
 
-Members: 
-Nathan Shih, NathanShih04, Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
+Members:
+
+Nathan Shih, GitHub: https://github.com/NathanShih04, Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
 
 Colin Howard, KoolKidKai, Tasks: (clean up scrum board, fix errors within binary page)
 
