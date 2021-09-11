@@ -14,15 +14,15 @@ Pairs and Journals:
 
 Members:
 
-Nathan Shih, GitHub: https://github.com/NathanShih04, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04 Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
+Nathan Shih, GitHub: https://github.com/NathanShih04, Tasks: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04 - (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
 
-Colin Howard, GitHub: https://github.com/KoolKidKai, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKaiTasks: (clean up scrum board, fix errors within binary page)
+Colin Howard, GitHub: https://github.com/KoolKidKai, Tasks: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKaiTasks - (clean up scrum board, fix errors within binary page)
 
-Kurtis Kwan, GitHub: https://github.com/Naevey, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey Tasks: (Change fonts and colors, pick out images to use, fix links)
+Kurtis Kwan, GitHub: https://github.com/Naevey, Tasks: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey - (Change fonts and colors, pick out images to use, fix links)
 
-Everitt Cheng, GitHub: https://github.com/NinjaBreadLord, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord Tasks: (Organize scrumboard, helped pick images)
+Everitt Cheng, GitHub: https://github.com/NinjaBreadLord, Tasks: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord - (Organize scrumboard, helped pick images)
 
-Jackson Golding, Github: https://github.com/K3wl-AidMan, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan Tasks: (Polish notes, edited navBar, changed about pages)
+Jackson Golding, Github: https://github.com/K3wl-AidMan, Tasks: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan - (Polish notes, edited navBar, changed about pages)
 
 Contributions: https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors
 
