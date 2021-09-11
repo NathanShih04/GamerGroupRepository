@@ -14,9 +14,13 @@ Pairs and Journals:
 
 Members: 
 Nathan Shih, NathanShih04, Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
+
 Colin Howard, KoolKidKai, Tasks: (clean up scrum board, fix errors within binary page)
+
 Kurtis Kwan, Naevy, Tasks: (Change fonts and colors, pick out images to use, fix links)
+
 Everitt Cheng, NinjaBreadLord, Tasks: (Organize scrumboard, helped pick images)
+
 Jackson Golding,  K3wlAidMan, Tasks: (Polish notes, edited navBar, changed about pages)
 
 Commits (?): https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors
