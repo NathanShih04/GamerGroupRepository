@@ -14,8 +14,8 @@ Scrum Board: https://github.com/NathanShih04/GamerGroupRepository/projects/1
 GitHub Repo Contributers: Kurtis Kwan(Naevy), Nathan Shih(NathanShih04), Everitt Cheng(NinjaBreadLord), Jackson Golding(K3wlAidMan), Colin Howard(KoolKidKai)
 
 Pairs and Journals: 
-- Kurtis, Nathan, Jackson - 
-- Colin and Everitt - 
+- Kurtis, Nathan, Jackson - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
+- Colin and Everitt - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
 
 Members: 
 Nathan Shih, NathanShih04, Tasks: (polish binary page, edit readme file, drop down link to about pages, create main plan for website)
@@ -23,3 +23,6 @@ Colin Howard, KoolKidKai, Tasks: (clean up scrum board, fix errors within binary
 Kurtis Kwan, Naevy, Tasks: (Change fonts and colors, pick out images to use, fix links)
 Everitt Cheng, NinjaBreadLord, Tasks: (Organize scrumboard, helped pick images)
 Jackson Golding,  K3wlAidMan, Tasks: (Polish notes, edited navBar, changed about pages)
+
+All Commits of members https://docs.google.com/document/d/1DkJ5t-Ok888A9uCo-oFmpcoHw1xy7CSB7ooXSjgXTsM/edit?usp=sharing
+
