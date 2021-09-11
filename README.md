@@ -24,7 +24,7 @@ Everitt Cheng, GitHub: https://github.com/NinjaBreadLord, Issues: https://github
 
 Jackson Golding, Github: https://github.com/K3wl-AidMan, Issues: https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan Tasks: (Polish notes, edited navBar, changed about pages)
 
-Commits (?): https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors
+Contributions: https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors
 
 
 ## [Flask Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Flask%20Portfolio%20Starter)
