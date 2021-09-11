@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="imrpoved turtle picture">
-      <change afterPath="$PROJECT_DIR$/static/improvedtordle.png" afterDir="false" />
+    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="css file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/tortilla happy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/tortillahappy.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/clicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/clicker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layouts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,10 @@
       <workItem from="1631040542132" duration="1734000" />
       <workItem from="1631211645812" duration="1027000" />
       <workItem from="1631298196858" duration="1824000" />
-      <workItem from="1631301400896" duration="626000" />
+      <workItem from="1631301400896" duration="935000" />
+      <workItem from="1631381228248" duration="808000" />
+      <workItem from="1631382070673" duration="71000" />
+      <workItem from="1631382250508" duration="463000" />
     </task>
     <task id="LOCAL-00001" summary="General Edits">
       <created>1631298622960</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631300984572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="css file">
+      <created>1631302109309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631302109309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,12 +155,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="General Edits" />
     <MESSAGE value="imrpoved turtle picture" />
-    <option name="LAST_COMMIT_MESSAGE" value="imrpoved turtle picture" />
+    <MESSAGE value="css file" />
+    <option name="LAST_COMMIT_MESSAGE" value="css file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask__main_py_.coverage" NAME="Flask Coverage Results" MODIFIED="1631213137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631300364174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631301724468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631382477337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository3.coverage" NAME="GamerGroupRepository3 Coverage Results" MODIFIED="1631300944446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
