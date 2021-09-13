@@ -7,8 +7,7 @@
 3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
 4. [Project Ideation]()
 5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-6. [Sprints 1,2 - Innovation]()
-7. [Sprints 3,4 - Prototyping]()
+
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 
