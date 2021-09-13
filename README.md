@@ -25,7 +25,7 @@
 
 ## Pairs and Journals: 
 ### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
-### [Colin and Everitt Journal](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
+### [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
 
 
 
