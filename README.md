@@ -14,6 +14,8 @@ GitHub Repo Contributers: Kurtis Kwan(Naevy), Nathan Shih(NathanShih04), Everitt
 
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
+| Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks] | [Scrum Board] | [Commits] |
+
 
 ## Pairs and Journals: 
 ### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
