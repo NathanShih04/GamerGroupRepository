@@ -5,7 +5,7 @@
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 2. [Pair Share Journals]()
 3. [Project Ideation]()
-4. [Sprint 0 - Introduction]()
+4. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 5. [Sprints 1,2 - Innovation]()
 6. [Sprints 3,4 - Prototyping]()
 ## Contributors
