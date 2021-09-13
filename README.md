@@ -5,7 +5,7 @@
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
-4. Project Ideation
+4. Project Ideation:
 
       [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
       
@@ -13,7 +13,6 @@
 5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 
 ## Contributors
-| Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
