@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="/templates/cssFiles/style.css">
+{% extends "layouts/layout.html" %}
 
 <!-- Search for all the Hack: below for hack-a-thon and mini-lab requirements -->
 
@@ -13,7 +13,7 @@
 <!-- Hack: Set bulbs and pass as variables via Python render_template
            add new images (ie PNGs) to project -->
 <!-- use your PNGs as default -->
-{% set imgBulbOn = "/static/tortilla happy.gif" %}
+{% set imgBulbOn = "/static/tortillahappy.gif" %}
 {% set imgBulbOff = "/static/tortilla.png" %}
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
@@ -70,11 +70,14 @@
             const image = document.getElementById('bulb' + i);
             const butt = document.getElementById('butt' + i);
             // Change digit and visual
+            //alert("image source: " + image.src + "--" + "{{ imgBulbOn }}"); // more debugging
             if (image.src.match("{{ imgBulbOn }}")) {
                 dig.value = 0;
                 image.src = "{{ imgBulbOff }}";
                 butt.innerHTML = "{{ msgTurnOn }}";
             } else {
+
+                //alert("image source: " + image.src ); // debug
                 dig.value = 1;
                 image.src = "{{ imgBulbOn }}";
                 butt.innerHTML = "{{ msgTurnOff }}";
