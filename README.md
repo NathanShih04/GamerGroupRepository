@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
-3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/drawings/d/1dX3vo62J3N8Sa8rjW3ylMC8kL9gkTF3GYgMShyklWDE/edit)
+3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
 4. [Project Ideation]()
 5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 6. [Sprints 1,2 - Innovation]()
