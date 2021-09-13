@@ -3,12 +3,11 @@
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## Table of Contents
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
-2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
+2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
 4. [Project Ideation]()
 5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-6. [Sprints 1,2 - Innovation]()
-7. [Sprints 3,4 - Prototyping]()
+
 ## Contributors
 | Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 
