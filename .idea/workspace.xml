@@ -183,6 +183,7 @@
       <option name="project" value="LOCAL" />
       <updated>1631302109309</updated>
     </task>
+<<<<<<<<< Temporary merge branch 1
     <task id="LOCAL-00004" summary="fixed navbar">
       <created>1631503685848</created>
       <option name="number" value="00004" />
@@ -205,6 +206,16 @@
       <updated>1631506267535</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=========
+    <task id="LOCAL-00004" summary="fixed minilab pages">
+      <created>1631557770020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631557770020</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,12 +237,22 @@
     <MESSAGE value="General Edits" />
     <MESSAGE value="imrpoved turtle picture" />
     <MESSAGE value="css file" />
+<<<<<<<<< Temporary merge branch 1
     <MESSAGE value="fixed navbar" />
     <MESSAGE value="more about page" />
     <MESSAGE value="wireframing edit" />
     <option name="LAST_COMMIT_MESSAGE" value="wireframing edit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+=========
+    <MESSAGE value="fixed minilab pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed minilab pages" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask__main_py_.coverage" NAME="Flask Coverage Results" MODIFIED="1631213137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631300364174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631557425864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>>>> Temporary merge branch 2
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631301724468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository3.coverage" NAME="GamerGroupRepository3 Coverage Results" MODIFIED="1631300944446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
