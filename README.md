@@ -1,10 +1,29 @@
-Scrum Board: https://github.com/NathanShih04/GamerGroupRepository/projects/1
-
+# AP CSP Period 3: Team Awawa
+##[Scrum Board] https://github.com/NathanShih04/GamerGroupRepository/projects/1
+## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
+## Table of Contents
+1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
+2. [Pair Share Journals]()
+3. [Project Ideation]()
+4. [Sprint 0 - Introduction]()
+5. [Sprints 1,2 - Innovation]()
+6. [Sprints 3,4 - Prototyping]()
+## Contributors
+| Name | GitHub ID and Profile | Tasks | Scrum Board | Commits |
 GitHub Repo Contributers: Kurtis Kwan(Naevy), Nathan Shih(NathanShih04), Everitt Cheng(NinjaBreadLord), Jackson Golding(K3wlAidMan), Colin Howard(KoolKidKai)
 
-Pairs and Journals: 
-- Kurtis, Nathan, Jackson - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
-- Colin and Everitt - https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing
+| Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
+
+
+## Pairs and Journals: 
+### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
+### [Colin and Everitt](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
+
+
+
+
+
+
 
 Members:
 
