@@ -9,7 +9,7 @@
 
       [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
       
-      [BrainWrite]()
+      [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
 5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 
 ## Contributors
