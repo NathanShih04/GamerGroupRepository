@@ -3,7 +3,7 @@
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## Table of Contents
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
-2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
+2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
 4. Project Ideation
 
@@ -33,8 +33,3 @@
 Runtime link: https://portfolio.nighthawkcodingsociety.com/
 ### Unique Idea
 We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
-
-**Sprint 3, 4 Week 3**
-  
-  We have learned and solidified understanding of binary thorughout the week. We have also worked on cleaning up code and optimizing our website's experience.
-  
