@@ -1,5 +1,5 @@
 # AP CSP Period 3: Team Awawa
-##[Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
+## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## Table of Contents
 1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
