@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="wireframing edit">
-      <change afterPath="$PROJECT_DIR$/static/Russian.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_9_2021_11_32_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_9_2021_11_32_AM__Changes_.xml" afterDir="false" />
+    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="Inserted image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/about/nathanabout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about/nathanabout.html" afterDir="false" />
     </list>
@@ -51,6 +49,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Downloaded Apps\Coding Apps\GamerGroupRepository\static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\fpsga\IdeaProjects\GamerGroupRepository3\templates\layouts" />
     </key>
@@ -161,6 +162,11 @@
       <workItem from="1631505227073" duration="64000" />
       <workItem from="1631505596109" duration="283000" />
       <workItem from="1631506180304" duration="441000" />
+      <workItem from="1631550303955" duration="61000" />
+      <workItem from="1631550529771" duration="527000" />
+      <workItem from="1631551333772" duration="874000" />
+      <workItem from="1631553273086" duration="16000" />
+      <workItem from="1631556740743" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="General Edits">
       <created>1631298622960</created>
@@ -204,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631506267535</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inserted image">
+      <created>1631509008337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631509008337</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +242,8 @@
     <MESSAGE value="fixed navbar" />
     <MESSAGE value="more about page" />
     <MESSAGE value="wireframing edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="wireframing edit" />
+    <MESSAGE value="Inserted image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserted image" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -237,6 +251,6 @@
     <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository3.coverage" NAME="GamerGroupRepository3 Coverage Results" MODIFIED="1631300944446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/gamergroup$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631505287071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask__main_py_.coverage" NAME="Flask Coverage Results" MODIFIED="1631213137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631508920288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631557160482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
