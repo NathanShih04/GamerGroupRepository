@@ -13,7 +13,7 @@
 
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
-| Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board] | [Commits](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | 
+| Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | 
 
 | Kurtis Kwan | [@Naevey](https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
 
