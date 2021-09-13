@@ -28,6 +28,6 @@
 ### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
 ### [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
 
-##Project Ideation
+## Project Ideation
 ### Unique Idea
 We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
