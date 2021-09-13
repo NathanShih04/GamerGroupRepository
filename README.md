@@ -16,7 +16,7 @@ GitHub Repo Contributers: Kurtis Kwan(Naevy), Nathan Shih(NathanShih04), Everitt
 
 | Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board] | [Commits] |
 
-
+| Kurtis Kwan | [@Naevey].(https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
 ## Pairs and Journals: 
 ### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
 ### [Colin and Everitt](https://docs.google.com/document/d/161-sWdPuODhu21cNNcomHgrri-U3oh7Ou5UlZb2a8cQ/edit?usp=sharing)
