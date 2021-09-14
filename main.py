@@ -98,6 +98,9 @@ def cabout():
 def clicker():
     return render_template("clicker.html")
 
+@app.route('/tclicker/')
+def tclicker():
+    return render_template("turtleclicker.html")
 
 # runs the application on the development server
 if __name__ == "__main__":
