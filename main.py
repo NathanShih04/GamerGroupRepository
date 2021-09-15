@@ -9,6 +9,9 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
+@app.route('/Turtle Clicker/')
+def turtle():
+    return render_template("turtleclicker.html")
 
 # connects /kangaroos path to render kangaroos.html
 @app.route('/kurtis/')
