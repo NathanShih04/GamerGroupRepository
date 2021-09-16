@@ -13,8 +13,8 @@
 <!-- Hack: Set bulbs and pass as variables via Python render_template
            add new images (ie PNGs) to project -->
 <!-- use your PNGs as default -->
-{% set imgBulbOn = "/static/tortillahappy.gif" %}
-{% set imgBulbOff = "/static/tortilla.png" %}
+{% set imgBulbOn = "/static/turtleyes.png" %}
+{% set imgBulbOff = "/static/turtledefault.png" %}
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
 
@@ -153,7 +153,7 @@
                 <table class="table">
                     <tr>
                         {% for i in range(BITS) %}
-                            <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
+                            <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="150" height="Auto">
                                 <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
                             </td>
                         {% endfor %}
