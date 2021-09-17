@@ -25,25 +25,29 @@
 </body>
 </html>
 
-<button onclick="MonkeyFunction()">Undress the Monkeys</button>
+</script>
+<button onclick = "MonkeyUndressFunction()">Undress the Monkeys</button>
 
 <p>
-    <img alt="/static/hairlessApe.jpg" src="/static/MonkeyMaids.jpg"
-         style="height: 400px; width: 350px" id="MonkeyButton" onclick="MonkeyFunction()"  />
+    <img alt = "/static/hairlessApe.jpg" src = "/static/MonkeyMaids.jpg" width="250"
+         style = "..." id="MonkeyUndressButton" onclick="MonkeyUndressFunction()"
+
 </p>
 
-<script language="javascript">
-    function MonkeyFunction() {
+<script language = "javascript">
+    function MonkeyUndressFunction() {
 
-        if (document.getElementById("MonkeyButton").src == "/static/MonkeyMaids.jpg")
+        if (document.getElementById("MonkeyUndressButton").src == "/static/MonkeyMaids.jpg")
         {
-            document.getElementById("MonkeyButton").src = "/static/MonkeyMaids.jpg";
+            document.getElementById("MonkeyUndressButton").src = "/static/MonkeyMaids.jpg";
         }
         else
         {
-            document.getElementById("MonkeyButton").src = "/static/hairlessApe.jpg";
+            document.getElementById("MonkeyUndressButton").src = "/static/hairlessApe.jpg";
         }
     }
+
 </script>
+    <button type="button" onClick="window.location.reload();">Redress the Monkeys</button>
 </body>
 </html>
