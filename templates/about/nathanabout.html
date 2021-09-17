@@ -24,5 +24,31 @@
 </a>
 <h1>I'm Nathan Shih and I'm a junior at Del Norte High School. I really like the Fast and Furious movie franchise as well as turtles. As of right now, I'm really enjoying CSP as learning to code has been very interesting and is very rewarding to see the final product in the website. This picture is also an embed link
 </h1>
-</body>
+
+    </script>
+    <button onclick = "MonkeyUndressFunction()">Turtle Transform</button>
+
+    <p>
+        <img alt = "/static/bred.jpg" src = "/static/tordle.png" width="250"
+             style = "..." id="MonkeyUndressButton" onclick="MonkeyUndressFunction()"
+
+    </p>
+
+    <script language = "javascript">
+        function MonkeyUndressFunction() {
+
+            if (document.getElementById("MonkeyUndressButton").src == "/static/tordle.png")
+            {
+                document.getElementById("MonkeyUndressButton").src = "/static/tordle.png";
+            }
+            else
+            {
+                document.getElementById("MonkeyUndressButton").src = "/static/bred.jpg";
+            }
+        }
+
+    </script>
+    <button type="button" onClick="window.location.reload();">Turtle Retransform</button>
+
+    </body>
 </html>
