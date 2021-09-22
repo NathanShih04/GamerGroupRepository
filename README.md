@@ -41,3 +41,17 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | **Category** | **Score** |
 | ------------- | ------------- |
 | TPT | (_ / 3)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: | [Ticket]https://www.youtube.com/  |
+| ------------- | ------------- |
+| Colin: | [Ticket]https://www.youtube.com/  |
+| ------------- | ------------- |
+| Jackson:  | [Ticket]https://www.youtube.com/  |
+| ------------- | ------------- |
+| Everitt:  | [Ticket]https://www.youtube.com/  |
+| ------------- | ------------- |
+| Kurtis: | [Ticket]https://www.youtube.com/  |
+
