@@ -39,4 +39,5 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 ### Sprint 5 Week 5   
 #### Grading
 | **Category** | **Score** |
+| ------------- | ------------- |
 | TPT | (_ / 3)  |
