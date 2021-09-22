@@ -34,3 +34,9 @@
 ## Project Ideation
 ### Unique Idea
 We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
+
+## Time Table 
+### Sprint 5 Week 5   
+#### Grading
+| **Category** | **Score** |
+| TPT | (_ / 3)  |
