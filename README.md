@@ -45,9 +45,68 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: | [Ticket](https://www.youtube.com/)  |
-| Colin: | [Ticket](https://www.youtube.com/)  |
-| Jackson:  | [Ticket](https://www.youtube.com/)  |
-| Everitt:  | [Ticket](https://www.youtube.com/)  |
-| Kurtis: | [Ticket](https://www.youtube.com/)  |
+| Nathan: | [Ticket]  |
+| Colin: | [Ticket]  |
+| Jackson:  | [Ticket]  |
+| Everitt:  | [Ticket]  |
+| Kurtis: | [Ticket]  |
 
+### Sprint 4 Week 4   
+#### Grading
+| **Category** | **Score** |
+| ------------- | ------------- |
+| TPT | (_ / 3)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: | [Ticket]  |
+| Colin: | [Ticket]  |
+| Jackson:  | [Ticket]  |
+| Everitt:  | [Ticket]  |
+| Kurtis: | [Ticket]  |
+
+### Sprint 3 Week 3   
+#### Grading
+| **Category** | **Score** |
+| ------------- | ------------- |
+| TPT | (_ / 3)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: | [Ticket]  |
+| Colin: | [Ticket]  |
+| Jackson:  | [Ticket]  |
+| Everitt:  | [Ticket]  |
+| Kurtis: | [Ticket]  |
+
+### Sprint 2 Week 2   
+#### Grading
+| **Category** | **Score** |
+| ------------- | ------------- |
+| TPT | (_ / 3)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: | [Ticket]  |
+| Colin: | [Ticket]  |
+| Jackson:  | [Ticket]  |
+| Everitt:  | [Ticket]  |
+| Kurtis: | [Ticket]  |
+
+### Sprint 1 Week 1   
+#### Grading
+| **Category** | **Score** |
+| ------------- | ------------- |
+| TPT | (_ / 3)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: | [Ticket]  |
+| Colin: | [Ticket]  |
+| Jackson:  | [Ticket]  |
+| Everitt:  | [Ticket]  |
+| Kurtis: | [Ticket]  |
