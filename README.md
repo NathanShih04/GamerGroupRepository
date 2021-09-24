@@ -47,7 +47,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Edited Readme file, organized scrum board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/003f86ba94db8feff88dd4cc5356d1b0dea0d5f3)  |
 | Colin: Edited Readme file | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f5ba8dba2e61636dc226e580b25b9cd0c59820db)  |
-| Jackson: Took notes and edited scrum board | [Ticket]  |
+| Jackson: Took notes, edited scrum board and README | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/90cdc483f64ea8a1b0effc10be83ad737412b4dd)  |
 | Everitt: Edited RGB page code | [Ticket]  |
 | Kurtis: Fixed turtle clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5b2bef9cc96a2cae04213b94bf4d1764ab5f1c42)  |
 
