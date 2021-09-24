@@ -92,7 +92,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Fixed bugs on the navbar and fixed the organization| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/aa6ee820447d58d3dcad2e42a69b8af17ebffdbf)  |
 | Colin: Edited Readme, added Pictures to AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e68f8852ca1b10f9d6aeb7d3c1010ed1e4921c45)  |
-| Jackson:  | [Ticket]  |
+| Jackson: Worked on About Pages | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0bd57bf145d8f68286ce1ae567d81b387669b49f)  |
 | Everitt:  | [Ticket]  |
 | Kurtis: Fixed Mini-Lab Pages| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f7d11eb2faa22e68676f1fde77e4f3d612bc4893)  |
 
