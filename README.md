@@ -75,7 +75,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d3cbfb9edf4c1ad01f90a3fa39cacd893c81e9d)  |
+| Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/47f7d3168a5780e0578acc0ac13fe71b9ad5b1ae)  |
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
