@@ -77,7 +77,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/47f7d3168a5780e0578acc0ac13fe71b9ad5b1ae)  |
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
-| Jackson:  | [Ticket]  |
+| Jackson: Fixed small bugs with the navbar | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/99d9e23b87882465622804bf24482bed9493351f)  |
 | Everitt:  | [Ticket]  |
 | Kurtis: Added Binary Mini Lab| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/64d7f499639ef083e816b3765e4c86261bef30e0)  |
 
