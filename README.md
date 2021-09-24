@@ -62,7 +62,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Added DOM to AboutMe, edited Scrum Board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/da09db94de45d2c26679475ef5cb7d8b10a4b06a)  |
 | Colin: Edited DOM on AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3d0761aa9ab60855c9cc978e83a942fc7f6bc986) |
-| Jackson:  | [Ticket]  |
+| Jackson: Made the turtle clicker tab link to the turtle clicker page. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/030e71c43cdcb6f0b2164c92abcb83bfbca2162c)  |
 | Everitt:  | [Ticket]  |
 | Kurtis: Added Turtle Cursor| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/27b6244a275d1fb766c63daa6bc478b456557657)  |
 
