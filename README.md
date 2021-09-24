@@ -105,8 +105,8 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Took Notes, organzied scrum board| [Ticket]  |
+| Nathan: Took Notes, organzied scrum board| [Ticket](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit?usp=sharing)  |
 | Colin: Took Notes, organized ReadMe| [Ticket](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)  |
-| Jackson: TookNotes, edited source code | [Ticket]  |
+| Jackson: TookNotes, edited source code | [Ticket](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit?usp=sharing)  |
 | Everitt: Took Notes, bug fixes on source website | [Ticket](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)  |
-| Kurtis: Took Notes, edited source code | [Ticket]  |
+| Kurtis: Took Notes, edited source code | [Ticket](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit?usp=sharing)  |
