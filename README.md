@@ -60,7 +60,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Added DOM to AboutMe, edited Scrum Board | [Ticket]  |
+| Nathan: Added DOM to AboutMe, edited Scrum Board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/da09db94de45d2c26679475ef5cb7d8b10a4b06a)  |
 | Colin: Edited DOM on AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3d0761aa9ab60855c9cc978e83a942fc7f6bc986) |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
@@ -75,7 +75,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket]  |
+| Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d3cbfb9edf4c1ad01f90a3fa39cacd893c81e9d)  |
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
