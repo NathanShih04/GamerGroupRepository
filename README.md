@@ -49,7 +49,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin: Edited Readme file | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f5ba8dba2e61636dc226e580b25b9cd0c59820db)  |
 | Jackson: Took notes and edited scrum board | [Ticket]  |
 | Everitt: Edited RGB page code | [Ticket]  |
-| Kurtis: Fixed turtle clicker page | [Ticket]  |
+| Kurtis: Fixed turtle clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5b2bef9cc96a2cae04213b94bf4d1764ab5f1c42)  |
 
 ### Sprint 4 Week 4   
 #### Grading
@@ -64,7 +64,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin: Edited DOM on AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3d0761aa9ab60855c9cc978e83a942fc7f6bc986) |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
-| Kurtis: | [Ticket]  |
+| Kurtis: Added Turtle Cursor| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/27b6244a275d1fb766c63daa6bc478b456557657)  |
 
 ### Sprint 3 Week 3   
 #### Grading
@@ -79,7 +79,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
-| Kurtis: | [Ticket]  |
+| Kurtis: Added Binary Mini Lab| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/64d7f499639ef083e816b3765e4c86261bef30e0)  |
 
 ### Sprint 2 Week 2   
 #### Grading
@@ -94,7 +94,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin: Edited Readme, added Pictures to AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e68f8852ca1b10f9d6aeb7d3c1010ed1e4921c45)  |
 | Jackson:  | [Ticket]  |
 | Everitt:  | [Ticket]  |
-| Kurtis: | [Ticket]  |
+| Kurtis: Fixed Mini-Lab Pages| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f7d11eb2faa22e68676f1fde77e4f3d612bc4893)  |
 
 ### Sprint 1 Week 1   
 #### Grading
