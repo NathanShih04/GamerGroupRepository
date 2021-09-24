@@ -47,7 +47,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Edited Readme file, organized scrum board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/003f86ba94db8feff88dd4cc5356d1b0dea0d5f3)  |
 | Colin: Edited Readme file | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f5ba8dba2e61636dc226e580b25b9cd0c59820db)  |
-| Jackson: Took notes and edited scrum board | [Ticket]  |
+| Jackson: Took notes, edited scrum board and README | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/90cdc483f64ea8a1b0effc10be83ad737412b4dd)  |
 | Everitt: Edited RGB page code | [Ticket]  |
 | Kurtis: Fixed turtle clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5b2bef9cc96a2cae04213b94bf4d1764ab5f1c42)  |
 
@@ -62,7 +62,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Added DOM to AboutMe, edited Scrum Board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/da09db94de45d2c26679475ef5cb7d8b10a4b06a)  |
 | Colin: Edited DOM on AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3d0761aa9ab60855c9cc978e83a942fc7f6bc986) |
-| Jackson:  | [Ticket]  |
+| Jackson: Made the turtle clicker tab link to the turtle clicker page. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/030e71c43cdcb6f0b2164c92abcb83bfbca2162c)  |
 | Everitt:  | [Ticket]  |
 | Kurtis: Added Turtle Cursor| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/27b6244a275d1fb766c63daa6bc478b456557657)  |
 
@@ -77,7 +77,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/47f7d3168a5780e0578acc0ac13fe71b9ad5b1ae)  |
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
-| Jackson:  | [Ticket]  |
+| Jackson: Fixed small bugs with the navbar | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/99d9e23b87882465622804bf24482bed9493351f)  |
 | Everitt:  | [Ticket]  |
 | Kurtis: Added Binary Mini Lab| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/64d7f499639ef083e816b3765e4c86261bef30e0)  |
 
