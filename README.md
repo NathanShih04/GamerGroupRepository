@@ -63,7 +63,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Nathan: Added DOM to AboutMe, edited Scrum Board | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/da09db94de45d2c26679475ef5cb7d8b10a4b06a)  |
 | Colin: Edited DOM on AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3d0761aa9ab60855c9cc978e83a942fc7f6bc986) |
 | Jackson: Made the turtle clicker tab link to the turtle clicker page. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/030e71c43cdcb6f0b2164c92abcb83bfbca2162c)  |
-| Everitt:  | [Ticket]  |
+| Everitt: Worked on time tables and formatting README| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f6efca07d7484fb132e6aad1f374c73839551015)  |
 | Kurtis: Added Turtle Cursor| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/27b6244a275d1fb766c63daa6bc478b456557657)  |
 
 ### Sprint 3 Week 3   
@@ -78,7 +78,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Nathan: Edited Readme, organized ScrumBoard, merges and bug fixes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/47f7d3168a5780e0578acc0ac13fe71b9ad5b1ae)  |
 | Colin: Added DOM change (Undress function) | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5818ef94f8fb2ee099e05ca0fe4137dac5dd45bf)  |
 | Jackson: Fixed small bugs with the navbar | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/99d9e23b87882465622804bf24482bed9493351f)  |
-| Everitt:  | [Ticket]  |
+| Everitt:  Worked on ASCII| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/2fc33207f9d5042af7aadeeb6447bb07619b753c)  |
 | Kurtis: Added Binary Mini Lab| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/64d7f499639ef083e816b3765e4c86261bef30e0)  |
 
 ### Sprint 2 Week 2   
@@ -93,7 +93,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Nathan: Fixed bugs on the navbar and fixed the organization| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/aa6ee820447d58d3dcad2e42a69b8af17ebffdbf)  |
 | Colin: Edited Readme, added Pictures to AboutMe | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e68f8852ca1b10f9d6aeb7d3c1010ed1e4921c45)  |
 | Jackson: Worked on About Pages | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0bd57bf145d8f68286ce1ae567d81b387669b49f)  |
-| Everitt:  | [Ticket]  |
+| Everitt: Worked on About Page and added images| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/942503b28eb24700a0a3d785d180ce371875e66b)  |
 | Kurtis: Fixed Mini-Lab Pages| [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f7d11eb2faa22e68676f1fde77e4f3d612bc4893)  |
 
 ### Sprint 1 Week 1   
