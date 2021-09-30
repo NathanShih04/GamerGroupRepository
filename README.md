@@ -45,11 +45,11 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Fixed binarydfoard | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/003f86ba94db8feff88dd4cc5356d1b0dea0d5f3)  |
-| Colin: Edited Readme file | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f5ba8dba2e61636dc226e580b25b9cd0c59820db)  |
-| Jackson: Took notes, edited scrum board and README | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/90cdc483f64ea8a1b0effc10be83ad737412b4dd)  |
+| Nathan: Fixed binary bit conversion , organized and assigned tasks to scrum board | [Ticket]()  |
+| Colin: Added backend code for turtle clicker | [Ticket]()  |
+| Jackson: Took notes, edited scrum board and README | [Ticket]()  |
 | Everitt: Edited RGB page code | [Ticket]  |
-| Kurtis: Fixed turtle clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/5b2bef9cc96a2cae04213b94bf4d1764ab5f1c42)  |
+| Kurtis: Fixed turtle clicker page | [Ticket]()  |
 
 ### Sprint 5 Week 5   
 #### Grading
