@@ -124,20 +124,15 @@ def cabout():
     return render_template("about/colinabout.html")
 
 
-@app.route('/clicker/', methods=['GET', 'POST'])
-def clicker():
-    ## if request.method == "POST":
-    ##   if request.form:
-    ##      bitNumber = request.form.get("bits")
-    ##       if len(bitNumber) != 0:
-    ##         return render_template("clicker.html", BITS=int(bitNumber), imageOn="/static/turtleon!.jpg",  imageOff="turtledefault.png")
-    ##  if request.form["bits2"]:
-    ##     return render_template("clicker.html", BITS=8, imageOn="/static/turtleon!.jpg",
-    ##           imageOff="/static/turtledefault.png")
-    ##   return render_template("clicker.html", BITS=8, imageOn="/static/turtleon!.jpg",
-    ##      imageoff="/static/turtleoff.jpg")
-    return render_template("clicker.html")
-
+@app.route("/binary/", methods = ['GET', 'POST'])
+def binary():
+    BITS = 4
+    imgBulbOn = "/static/assets/bulb_on.gif"
+    # second time you call it, its a post action
+    if request.method == 'POST':
+        BITS = int(request.form['BITS'])
+        imgBulbOn = request.form['lightOn']
+    return render_template("clicker.html", imgBulbOn=imgBulbOn, BITS=BITS)
 
 @app.route('/tclicker/')
 def tclicker():
