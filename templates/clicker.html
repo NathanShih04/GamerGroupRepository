@@ -80,7 +80,6 @@
             }
             return conversion;
         }
-
         // toggle selected bit and recalculate
         function toggleBit(i) {
             //alert("Digit action: " + i );
@@ -88,18 +87,19 @@
             const image = document.getElementById('bulb' + i);
             const butt = document.getElementById('butt' + i);
             // Change digit and visual
-            //alert("image source: " + image.src + "--" + "{{ imgBulbOn }}"); // more debugging
             if (image.src.match("{{ imgBulbOn }}")) {
                 dig.value = 0;
                 image.src = "{{ imgBulbOff }}";
                 butt.innerHTML = "{{ msgTurnOn }}";
             } else {
-
-                //alert("image source: " + image.src ); // debug
                 dig.value = 1;
                 image.src = "{{ imgBulbOn }}";
                 butt.innerHTML = "{{ msgTurnOff }}";
             }
+            // Binary numbers
+            const binary = getBits();
+            setConversions(binary);
+        }
             // Binary numbers
             const binary = getBits();
             setConversions(binary);
