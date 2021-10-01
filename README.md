@@ -51,7 +51,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Nathan: Fixed binary bit conversion , Implemented writing messages on top of an image | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/b0c1ae88ae3188b6422109d2b80bfadfa6e2ce84)  |
 | Colin: Added backend code for turtle clicker, helped on implementing writing messages on images | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/1d2a3e7eeb532caa3e948f6f5f74656e3e892968)  |
 | Jackson: Created the documentation for the project layout | [Ticket](https://docs.google.com/document/d/1jUu7eA0CogtvqKEs1UnBghTznlCeWKLUjFv6wiF0dus/edit?usp=sharing)  |
-| Everitt: Worked on implementing gray scale | [Ticket]()  |
+| Everitt: Worked on implementing gray scale | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/f685f7b3b9fac73cac5dab5beb5bf04c2b015e29)  |
 | Kurtis: Worked on fixing RGB | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/8b31ee228f790040165850ad708775d786c5dfcc)  | 
 
 ### Sprint 5 Week 5   
