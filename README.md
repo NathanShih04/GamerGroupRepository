@@ -49,7 +49,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | **Task** | **Evidence** |
 | ------------- | ------------- |
 | Nathan: Fixed binary bit conversion , Implemented writing messages on top of an image | [Ticket]()  |
-| Colin: Added backend code for turtle clicker, helped on implementing writing messages on images | [Ticket]()  |
+| Colin: Added backend code for turtle clicker, helped on implementing writing messages on images | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/1d2a3e7eeb532caa3e948f6f5f74656e3e892968)  |
 | Jackson: Created the documentation for the project layout | [Ticket](https://docs.google.com/document/d/1jUu7eA0CogtvqKEs1UnBghTznlCeWKLUjFv6wiF0dus/edit?usp=sharing)  |
 | Everitt: Worked on implementing gray scale | [Ticket]()  |
 | Kurtis: Worked on fixing bits | [Ticket]()  |
