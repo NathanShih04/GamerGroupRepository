@@ -47,7 +47,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Fixed binary bit conversion , organized and assigned tasks to scrum board | [Ticket]()  |
 | Colin: Added backend code for turtle clicker | [Ticket]()  |
-| Jackson: Took notes, edited scrum board and README | [Ticket]()  |
+| Jackson: Created the documentation for the project layout | [Ticket](https://docs.google.com/document/d/1jUu7eA0CogtvqKEs1UnBghTznlCeWKLUjFv6wiF0dus/edit?usp=sharing)  |
 | Everitt: Edited RGB page code | [Ticket]  |
 | Kurtis: Fixed turtle clicker page | [Ticket]()  |
 
