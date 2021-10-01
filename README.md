@@ -36,20 +36,23 @@
 We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
 
 ## Time Table 
-### Sprint 6 Week 6   
+### Sprint 5,6 Week 6   
 #### Grading
 | **Category** | **Score** |
 | ------------- | ------------- |
-| TPT | (_ / 3)  |
+| Planning | (_ / 1)  |
+| Team Technicals | (_ / 2)  |
+| Individual Technicals (everyone) | (_ / 2)  |
+| Overall Score | (_ / 5)  |
 
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Fixed binary bit conversion , organized and assigned tasks to scrum board | [Ticket]()  |
-| Colin: Added backend code for turtle clicker | [Ticket]()  |
+| Nathan: Fixed binary bit conversion , Implemented writing messages on top of an image | [Ticket]()  |
+| Colin: Added backend code for turtle clicker, helped on implementing writing messages on images | [Ticket]()  |
 | Jackson: Created the documentation for the project layout | [Ticket](https://docs.google.com/document/d/1jUu7eA0CogtvqKEs1UnBghTznlCeWKLUjFv6wiF0dus/edit?usp=sharing)  |
-| Everitt: Edited RGB page code | [Ticket]  |
-| Kurtis: Fixed turtle clicker page | [Ticket]()  |
+| Everitt: Worked on implementing gray scale | [Ticket]  |
+| Kurtis: Worked on fixing bits | [Ticket]()  |
 
 ### Sprint 5 Week 5   
 #### Grading
