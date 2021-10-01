@@ -3,17 +3,28 @@
 
 {% block meta %}
     <script>
-        // Hack: add java script function to toggle image from original to gray and back (toggle)
-        //  document.getElementById("img<n>").src
-        //  document.getElementID("img_gray<n>").innerHTML
-        //  help: https://www.geeksforgeeks.org/how-to-change-the-src-attribute-of-an-img-element-in-javascript-jquery/
+        var imageType = 0; // 0 is color, 1 is gray
+
+        function gray() {
+            if (imageType == 0) {
+                $('#colored').hide()
+                $('#grayscale').show()
+                imageType = 1;
+            } else {
+                $('#grayscale').hide()
+                $('#colored').show()
+                imageType = 0;
+            }
+        }
+        </scr
     </script>
-    <title>RGB starter</title>
+    <title>rgb</title>
 {% endblock %}
 
 {% block content %}
     <h1 class="text-center">RGB values within an Image</h1>
     <div class="container">
+        <button onclick="toggle()">Greyscale</button>
         <div class="row justify-content-md-center">
             <table class="table">
                 <thead>
@@ -34,13 +45,7 @@
                             <div>{{image.size}}</div>
                         </td>
                         <td>
-                            <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
-                            <!-- Hack: create button (btn{{loop.index}} to  call java script function
-                               pass index to allow you to toggle images with hidden id's
-                               {{image.base64}}  original image
-                               {{image.base64_GRAY}}  gray scale image
-                            -->
-                            <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
+                            <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64_GRAY}}" >
                             <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
                         </td>
                         <td>
@@ -68,6 +73,7 @@
                                     {% endfor %}
                                     </tbody>
                                 </table>
+
                             </div>
                         </td>
                     </tr>

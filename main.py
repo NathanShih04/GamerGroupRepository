@@ -1,4 +1,4 @@
-# import "packages" from flask
+2# import "packages" from flask
 from flask import Flask, render_template, request
 from image import image_data
 
