@@ -7,7 +7,7 @@
            use HTML Input Form in Frontend, ie toward top of Page
            send initial value and updated values to form via Python render_template -->
 <!-- Hack: use 8 as default -->
-{% set BITS = 8 %}
+
 {% set MAX = ((2 ** BITS) - 1) %}
 
 <!-- Hack: Set bulbs and pass as variables via Python render_template
@@ -19,22 +19,7 @@
 {% set msgTurnOff = "Turn Off" %}
 
 {% block meta %}
-    <h1 class="text-center">Binary Math with Conversions</h1>
-    <form action="/binary/" method="post">
-        <label>Bits:</label>
-        <input type="text" name="BITS" value={{ BITS }}><br>
-        <p>Choose a lightBulb</p>
-        {#code found on w3 c#}
-        <input type="radio" name="lightOn" value="/static/assets/bulb_on.gif" checked>
-        <img src="/static/assets/bulb_on.gif" height="50">
-        <input type="radio" name="lightOn" value="/static/assets/bulb_off2.png">
-        <img src="/static/assets/bulb_off2.png" height="50">
 
-
-        <br>
-        <input type="submit" value="Submit">
-
-    </form>
     <title>Binary page</title>
     <script>
         const BITS = '{{ BITS }}'; let max = '{{ MAX }}'; let MAX = parseInt(max, 10);
@@ -140,13 +125,21 @@
         <div class="row justify-content-md-center">
 
 <div class="col-12">
-    <form action="/binary/" id="binaryForm" method="POST" >
-        <label for="binaryForm">Set Number of Bits</label>
-        <input name="bits" id="bits">
-        <input type="submit" name="bits1" value="Set Bits!">
-        <input type="submit" name="bits2" value="Change Image!">
-    </form>
+    <form action="/binary/"  id="binaryForm" method="post">
+        <label>Chews Bits</label>
+        <input type="text" name="BITS" value={{ BITS }}><br>
+        <p>Choose a turtle</p>
+        {#code found on w3 c#}
+        <input type="radio" name="lightOn" value="/static/turtleyes.png" checked>
+        <img src="/static/turtleyes.png" height="50">
+        <input type="radio" name="lightOn" value="/static/turtle.jpg">
+        <img src="/static/turtle.jpg" height="50">
 
+
+        <br>
+        <input type="submit" value="Submit">
+
+    </form>
 </div>
 
 

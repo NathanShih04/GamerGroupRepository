@@ -127,7 +127,7 @@ def cabout():
 @app.route("/binary/", methods = ['GET', 'POST'])
 def binary():
     BITS = 4
-    imgBulbOn = "/static/assets/bulb_on.gif"
+    imgBulbOn = "/static/turtleon!.png"
     # second time you call it, its a post action
     if request.method == 'POST':
         BITS = int(request.form['BITS'])
