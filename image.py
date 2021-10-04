@@ -31,10 +31,7 @@ def image_data(path=Path("static/assets/"), img_list=None):  # path of static im
             {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.jpg"}
         ]
 
-
-    # gather analysis data and meta data for each image, adding attributes to each row in table
     for img_dict in img_list:
-        #file = path + img_dict['file']  # file with path for local access (backend)
         file = path / img_dict['file']  # file with path for local access (backend)
 
         # Python Image Library operations
