@@ -1,3 +1,4 @@
+import PIL.ImageOps
 from PIL import Image, ImageDraw, ImageFilter
 import numpy
 import base64
@@ -19,18 +20,34 @@ def image_formatter(img, img_type):
 def image_data(path=Path("static/assets/"), img_list=None):  # path of static images is defaulted
     if img_list is None:  # color_dict is defined with defaults
         img_list = [
-            {'source': "Zohar Lazar", 'label': "Father Time", 'file': "fathertime.png"},
-            {'source': "Peter Carolin", 'label': "Lassen Volcano", 'file': "lassen-volcano-256.jpg"},
-            {'source': "iconsdb.com", 'label': "Black square", 'file': "black-square-16.png"},
-            {'source': "iconsdb.com", 'label': "Red square", 'file': "red-square-16.png"},
-            {'source': "iconsdb.com", 'label': "Green square", 'file': "green-square-16.png"},
-            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.png"},
-            {'source': "iconsdb.com", 'label': "White square", 'file': "white-square-16.png"},
-            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.jpg"}
+            {'source': "Zohar Lazar", 'label': "Father Time", 'file': "fathertime.png", filter: "inverted"},
+            {'source': "Peter Carolin", 'label': "Lassen Volcano", 'file': "lassen-volcano-256.jpg", filter: "gaussian"},
+            {'source': "iconsdb.com", 'label': "Black square", 'file': "black-square-16.png", filter: "nothing"},
+            {'source': "iconsdb.com", 'label': "Red square", 'file': "red-square-16.png", filter: "nothing"},
+            {'source': "iconsdb.com", 'label': "Green square", 'file': "green-square-16.png", filter: "nothing"},
+            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.png", filter: "nothing"},
+            {'source': "iconsdb.com", 'label': "White square", 'file': "white-square-16.png", filter: "nothing"},
+            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.jpg", filter: "nothing"}
         ]
 
     for img_dict in img_list:
         file = path / img_dict['file']  # file with path for local access (backend)
+        effect = img_dict[filter]
+
+        if effect == "inverted":
+            origImage = Image.open(file)
+            invert = PIL.ImageOps.invert( origImage.convert('RGB') )
+            invert.save("static/assets/" + img_dict['file'])
+            invertFile = "static/assets/" + img_dict['file']
+            img_reference = Image.open(invertFile)
+        elif effect == "gaussian":
+            origImage = Image.open(file)
+            gaussEffect = origImage.filter(ImageFilter.GaussianBlur(5))
+            gaussEffect.save("static/assets/" + img_dict['file'])
+            gaussFile = "static/assets/" + img_dict['file']
+            img_reference = Image.open(gaussFile)
+        else:
+            img_reference = Image.open(file)
 
         # Python Image Library operations
         img_reference = Image.open(file)  # PIL
