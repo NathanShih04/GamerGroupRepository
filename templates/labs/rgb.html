@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 {% extends "/layouts/layout.html" %}
-
 {% block meta %}
     <script>
         function toggleGrayscale(ndx) {
-            if (document.getElementById("button1").value == "Gray") {
+            if (document.getElementById("buttonGray").value == "Gray") {
                 document.getElementById("img1").src = document.getElementById("img_gray1").innerHTML;
-                document.getElementById("button1").value = "Original";
+                document.getElementById("buttonGray").value = "Original";
             }
             else
             {
-                document.getElementById("button1").value = "Gray";
+                document.getElementById("buttonGray").value = "Gray";
                 document.getElementById("img1").src = document.getElementById("img_orig1").innerHTML;
             }
         }
@@ -42,7 +41,7 @@
                         <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
                         <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
                         <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
-                        <input type="button" id="button1" value="Gray" onclick="toggleGrayscale()">
+                        <input type="button" id="buttonGray" value="Gray" onclick="toggleGrayscale()">
                     </td>
                     <td>
                         <div class="overflow-auto" style="height: 256px">
@@ -78,4 +77,6 @@
 
     </div>
 </div>
+{% endblock %}
+{% block background %}
 {% endblock %}

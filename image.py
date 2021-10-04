@@ -15,8 +15,6 @@ def image_base64(img, img_type):
 # formatter preps base64 string for inclusion, ie <img src=[this return value] ... />
 def image_formatter(img, img_type):
     return "data:image/" + img_type + ";base64," + image_base64(img, img_type)
-
-
 # color_data prepares a series of images for data analysis
 def image_data(path=Path("static/assets/"), img_list=None):  # path of static images is defaulted
     if img_list is None:  # color_dict is defined with defaults
@@ -36,6 +34,14 @@ def image_data(path=Path("static/assets/"), img_list=None):  # path of static im
 
         # Python Image Library operations
         img_reference = Image.open(file)  # PIL
+        d1 = ImageDraw.Draw(img_reference)
+        if img_dict['file'] == "white-square-16.png":
+            d1.text((0, 0), "Turtle",  fill =(255, 0, 0))
+        elif img_dict['file'] == "lassen-volcano-256.jpg":
+            d1.text((0, 0), "Monkeys and Turtles")
+        else:
+            d1.text((0, 0), "Monkey")
+        img_reference.save(file)
         img_data = img_reference.getdata()  # Reference https://www.geeksforgeeks.org/python-pil-image-getdata/
         img_dict['format'] = img_reference.format
         img_dict['mode'] = img_reference.mode
