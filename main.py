@@ -126,7 +126,7 @@ def cabout():
 
 @app.route("/binary/", methods = ['GET', 'POST'])
 def binary():
-    BITS = 4
+    BITS = 8
     imgBulbOn = "/static/turtleon!.png"
     # second time you call it, its a post action
     if request.method == 'POST':
@@ -144,7 +144,15 @@ def rgb():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('labs/rgb.html', images=image_data(path))
 
-
+@app.route("/colorcode/", methods = ['GET', 'POST'])
+def ccode():
+    BITS = 8
+    imgBulbOn = "/static/turtleon!.png"
+    # second time you call it, its a post action
+    if request.method == 'POST':
+        BITS = int(request.form['BITS'])
+        imgBulbOn = request.form['lightOn']
+    return render_template("/labs/colorcode.html", imgBulbOn=imgBulbOn, BITS=BITS)
 # runs the application on the development server
 if __name__ == "__main__":
     app.run(debug=True)
