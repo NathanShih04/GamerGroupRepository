@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% extends "layouts/layout.html" %}
+{% include "layouts/layout.html" %}
 
 <!-- Search for all the Hack: below for hack-a-thon and mini-lab requirements -->
 
@@ -34,7 +34,7 @@
         }
 
         function change_color(r,g,b) {
-            document.getElementById("color_code").style.backgroundColor = "rgb(35,34,23)"
+            document.getElementById("color_code").style.backgroundColor = "rgb(255,236,1)"
         }
         function toggleBit(i) {
             //alert("Digit action: " + i );
@@ -62,7 +62,8 @@
 
     </script>
 
-    <div class="col-12">
+    <div>
+        <class = "col-12">
         <table class="table">
             <tr>
                 {% for i in range(24) %}
@@ -79,7 +80,7 @@
 
     </div>
     <div id="color_code">
-        <p>Color Displays Here</p>
+        <h1>Color Displays Here</h1>
     </div>
     <p id="hex">Hex Code Displays Here</p>
     </table>
