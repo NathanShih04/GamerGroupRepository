@@ -1,7 +1,6 @@
 {% include "layouts/layout.html" %}
-
-{% set project = "Logic Gate Lab" %}
-{% set subheading = "Press each of the buttons(0s and 1s, NOTs and AND) to see what it does to the final result! " %}
+<title>Logic Gates</title>
+<header> Press each of the buttons on the tree and find out the final result </header>
 
 {% set imageurl = "/static/baseturtle.png" %}
 {% block under %}
@@ -12,29 +11,29 @@
         */
         .horizontalLine {
             border: 0;
-            background-color: #000;
-            height: 5px;
+            background-color: saddlebrown;
+            height: 6px;
             transform: translateX(-3em);
         }
 
         .verticalLine {
             margin-left: 1em;
-            width: 2px;
-            background: black;
+            width: 6px;
+            background: saddlebrown;
         }
 
         .buttonFalse {
-            background-color: black;
-            color: white;
+            background-color: whitesmoke;
+            color: black;
             font-style: normal;
-            width: 3em;
+            width: 6em;
         }
 
         .buttonTrue {
-            background-color: white;
+            background-color: whitesmoke;
             color: black;
-            font-style: italic;
-            width: 4em;
+            font-style: normal;
+            width: 6em;
         }
 
         .center {
@@ -44,7 +43,7 @@
         }
     </style>
     <div class="parallax">
-        <div class="frame" style="background-color: rgba(128,0,128,0.5); padding: 5%; width: 100%; margin: auto; height: 100%">
+        <div class="frame" style="background-color: rgba(0,128,0); padding: 5%; width: 100%; margin: auto; height: 100%">
 
             <div class="row">
                 <div class="offset-sm-3 col-sm-1">   <!-- Two buttons to show 0 and 1 -->
