@@ -138,6 +138,9 @@ def binary():
 def tclicker():
     return render_template("turtleclicker.html")
 
+@app.route('/unsignedaddition/')
+def unsignedaddition():
+    return render_template("/labs/unsignedaddition.html")
 
 @app.route('/rgb/')
 def rgb():
