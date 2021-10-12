@@ -14,6 +14,7 @@
 6. [Sprint 1,2 - Innovation](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 7. [Sprint 3,4 - Prototyping](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
 8. [Sprint 5,6 - Development](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
+9. [Sprint 7, 8 - Logic Gates]()
 
 ## Contributors
 
