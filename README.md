@@ -49,7 +49,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin:  | [Ticket]()  |
 | Jackson:  | [Ticket]()  |
 | Everitt:  | [Ticket]()  |
-| Kurtis:  | [Ticket]()  | 
+| Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
 
 ### Sprint 5,6 Week 6   
 #### Grading
