@@ -147,6 +147,11 @@ def rgb():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('labs/rgb.html', images=image_data(path))
 
+@app.route('/logicgates/')
+def logicgates():
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('labs/logicgates.html', images=image_data(path))
+
 @app.route("/colorcode/", methods = ['GET', 'POST'])
 def ccode():
     BITS = 8
