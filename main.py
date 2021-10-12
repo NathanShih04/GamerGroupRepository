@@ -138,12 +138,9 @@ def binary():
 def tclicker():
     return render_template("turtleclicker.html")
 
-@app.route('/logicgates/')
-def logicgates():
-    path = Path(app.root_path) / "static" / "assets"
-    return render_template('labs/logicgates.html', images=image_data(path))
-
-
+@app.route('/unsignedaddition/')
+def unsignedaddition():
+    return render_template("/labs/unsignedaddition.html")
 
 @app.route('/rgb/')
 def rgb():
