@@ -36,6 +36,21 @@
 We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
 
 ## Time Table 
+### Sprint 7,8 Week 7  
+#### Grading
+| **Category** | **Score** |
+| ------------- | ------------- |
+| Overall Score | (_ / 6)  |
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: Worked on Signed and Unsigned Addition | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3706bf614e6fafef7732d9890e64b0705cc338ee)  |
+| Colin:  | [Ticket]()  |
+| Jackson:  | [Ticket]()  |
+| Everitt:  | [Ticket]()  |
+| Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
+
 ### Sprint 5,6 Week 6   
 #### Grading
 | **Category** | **Score** |
