@@ -48,7 +48,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Nathan: Worked on Signed and Unsigned Addition | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3706bf614e6fafef7732d9890e64b0705cc338ee)  |
 | Colin:  | [Ticket]()  |
-| Jackson:  | [Ticket]()  |
+| Jackson: Created shift left and right on binary page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/6927402ab1f5dddf53e029fdfd690b21b71c7e93)  |
 | Everitt:  | [Ticket]()  |
 | Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
 
