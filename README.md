@@ -47,9 +47,9 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | **Task** | **Evidence** |
 | ------------- | ------------- |
 | Nathan: Worked on Signed and Unsigned Addition | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3706bf614e6fafef7732d9890e64b0705cc338ee)  |
-| Colin:  | [Ticket]()  |
-| Jackson: Created shift left and right on binary page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/6927402ab1f5dddf53e029fdfd690b21b71c7e93)  |
-| Everitt: Created Unicode column on the Binary clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e23830b671cf1bccaac0b41c230e61d8e28fca35)  |
+| Colin: Worked on logic gates mini-lab page  | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/4b761dfe367bea58c79642414ca7b4a19181c954)  |
+| Jackson:  | [Ticket]()  |
+| Everitt:  | [Ticket]()  |
 | Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
 
 ### Sprint 5,6 Week 6   
