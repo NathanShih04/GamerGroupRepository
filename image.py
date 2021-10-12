@@ -27,7 +27,7 @@ def image_data(path=Path("static/assets/"), img_list=None):  # path of static im
             {'source': "iconsdb.com", 'label': "Green square", 'file': "green-square-16.png", filter: "nothing"},
             {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.png", filter: "nothing"},
             {'source': "iconsdb.com", 'label': "White square", 'file': "white-square-16.png", filter: "nothing"},
-            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.jpg", filter: "nothing"}
+            {'source': "iconsdb.com", 'label': "Blue square", 'file': "blue-square-16.jpg", filter: "gaussian"}
         ]
 
     for img_dict in img_list:

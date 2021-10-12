@@ -1,27 +1,62 @@
 <!DOCTYPE html>
-{% include "layouts/layout.html" %}
-  <link rel="stylesheet" href="templates/cssFiles/style.css">
+{% extends "layouts/base.html" %}
+{% block background %}
+{% endblock %}
 
-<!-- Search for all the Hack: below for hack-a-thon and mini-lab requirements -->
+{% set project = "Signed and Unsigned Turtle Addition" %}
+{% set subheading = "Signed and Unsigned Turtle Addition" %}
 
-<!-- Hack: Build form to drive bit size dynamic updates
-           use HTML Input Form in Frontend, ie toward top of Page
-           send initial value and updated values to form via Python render_template -->
-<!-- Hack: use 8 as default -->
 {% set BITS = 24 %}
-
 {% set MAX = ((2 ** BITS) - 1) %}
+
+{% set imageurl = "/static/assets/backgrounds/patrick-schneider-mountains-unsplash.jpg" %}
 
 <!-- Hack: Set bulbs and pass as variables via Python render_template
            add new images (ie PNGs) to project -->
 <!-- use your PNGs as default -->
+
 {% set imgBulbOn = "/static/turtleyes.png" %}
 {% set imgBulbOff = "/static/turtledefault.png" %}
 {% set msgTurnOn = "Turn On" %}
 {% set msgTurnOff = "Turn Off" %}
 
+{% block body %}
 
-{% block meta %}
+    <style>
+        body, html {
+            height: 100%;
+        }
+
+        .parallax {
+            /* Lime green */
+            background-image: url({{ imageurl }}); background-color: #00FF00;
+
+            /* Full height */
+            height: 100%;
+
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        input.checkboxBig {
+            width: 20px;
+            height: 20px;
+        }
+
+        .square {
+            height: 100px;
+            width: 300px;
+            background-color: rgb(255, 255, 0);
+            margin: 1%;
+            border: 1px;
+            border-color: saddlebrown;
+        }
+    </style>
+
+    <body>
 
     <script>
 
@@ -34,6 +69,22 @@
             }
             return bits;
         }
+
+        function toggleOp(){
+            const operator = document.getElementById("operator")
+            // Operator input taken from displayed toggle button
+            if (operator.value.match("-")) {
+                operator.value = "+";
+            }
+            else {
+                operator.value = "-";
+            }
+            // Determines which operator was chosen to decide addition/subtraction
+            // Gets Binary numbers
+            const binary = getBits();
+            setConversions(binary);
+        }
+
         // setter for DOM values
         function setConversions(binary) {
             const stringDec = parseInt(binary, 2).toString(10);
@@ -46,37 +97,44 @@
             document.getElementById('hexadecimal').innerHTML = parseInt(binary, 2).toString(16);
             // DOM assignment to Decimal conversion
             document.getElementById('decimal').innerHTML = parseInt(binary, 2).toString(10);
-            /* Hack: show ASCII printable character(s) for each 8 bits
-             DOM assignment by converting decimal https://www.w3schools.com/jsref/jsref_fromcharcode.asp
-             below ASCII for more ideas of where to make changes
-             */
 
+
+            var operatorRaw = document.getElementById("operator")
+
+            if (operatorRaw.value.match("-")) {
+                var sign = 1;
+            }
+            else {
+                var sign = 0;
+            }
+            // Determines var sign depending on given operator
 
             // Takes substrings of binary values for each row
-            var binaryR = parseInt(stringBin.substring(0, 8));
-            var binaryG = parseInt(stringBin.substring(8, 16));
-            var binaryB = parseInt(stringBin.substring(16, 24));
+            var binaryR1 = parseInt(stringBin.substring(0, 8));
+            var binaryR2 = parseInt(stringBin.substring(8, 16));
+            var operator = sign;
+
 
             // Converts each substring to the decimal values for each color
-            document.getElementById('decimalR').innerHTML = parseInt(binaryR, 2).toString(10);
-            document.getElementById('decimalG').innerHTML = parseInt(binaryG, 2).toString(10);
-            document.getElementById('decimalB').innerHTML = parseInt(binaryB, 2).toString(10);
+            document.getElementById('decimalR1').innerHTML = parseInt(binaryR1, 2).toString(10);
+            document.getElementById('decimalR2').innerHTML = parseInt(binaryR2, 2).toString(10);
 
             // Same thing, but substring is saved in a variable
-            var decimalR = parseInt(binaryR, 2).toString(10);
-            var decimalG = parseInt(binaryG, 2).toString(10);
-            var decimalB = parseInt(binaryB, 2).toString(10);
+            var decimalR1 = parseInt(binaryR1, 2).toString(10);
+            var decimalR2 = parseInt(binaryR2, 2).toString(10);
 
-            // Created the color code in rgb format
-            var colorRGB = "rgb(" + decimalR + ', ' + decimalG + ', ' + decimalB + ")"
 
-            // Changes the colors of the divs and background to the created color
-            document.getElementById("square").style.backgroundColor = colorRGB;
-            document.getElementById("colorchange1").style.backgroundColor = colorRGB;
-            document.getElementById("colorchange2").style.backgroundColor = colorRGB;
-            document.getElementById("colorchange3").style.backgroundColor = colorRGB;
-            document.getElementById("coloroutput").innerHTML = colorRGB;
+            if (operator == 0){
+                var decimalR3 = (+decimalR2 + +decimalR1)
+            }
+            else if (operator == 1) {
+                var decimalR3 = (+decimalR1 - +decimalR2)
+            }
+            // With given var, determines process (add/subtract)
 
+            var binaryR3 = parseInt(decimalR3).toString(2);
+            document.getElementById('outputR3').innerHTML = "Binary: " + binaryR3;
+            document.getElementById('decimalR3').innerHTML = "Decimal: " + decimalR3;
 
         }
 
@@ -118,7 +176,9 @@
             const binary = getBits();
             setConversions(binary);
         }
-        // add is positive integer, subtract is negative integer
+
+
+        // adding results in positive and subtracting results in negative
         function add(n) {
             let binary = getBits();
             // convert to decimal and do math
@@ -202,52 +262,22 @@
     </script>
 
     <div class="parallax" style="height: max-content">
-        <div class="frame" style="background-color: rgba(0,0,0,0); padding: 5%; width: 100%; margin: auto; height: max-content">
+        <div class="frame" style="background-color: sandybrown; padding: 5%; width: 100%; margin: auto; height: max-content">
             <div>
-
-                <div class="d-flex justify-content-center" style="background-color: rgba(0,0,0,0)">
-                    <table>
-                        <td >
-                            <h1> Color Codes</h1>
-                        </td>
-                        <td>
-                            <p style="visibility: hidden"> Spacer Div </p>
-                        </td>
-                        <td>
-                            <table>
-                                <tr>
-                                    <td>
-                                        <div class="row justify-content-md-center">
-                                            <h3 style="color: #000000"> Color Output </h3>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="row justify-content-md-center">
-                                            <h5 id="coloroutput">rgb(0, 0, 0)</h5>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="row justify-content-md-center">
-                                            <div class="square" id="square">
-
-                                            </div>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                    </table>
+                <div class="d-flex justify-content-center" style="background-color: rgb(4, 155, 0)">
+                    <h1> Signed and Unsigned Turtle Addition </h1>
+                </div>
+            </div>
+            <div>
+                <div class="d-flex justify-content-center" style="background-color: greenyellow">
+                    <h5> Switch between - and + with toggle button </h5>
                 </div>
             </div>
 
             <div class="table">
                 <tr>
                     <td>
-                        <div class="row justify-content-md-center" style="background-color: rgba(0,0,0,0)">
+                        <div class="row justify-content-md-center" style="background-color: rgba(0, 0, 0, 0.8)">
 
 
                             <div class="col-10" style="display: none">
@@ -267,7 +297,7 @@
                                     <tr style="color: white">
                                         <td><button type="button" id="multiply2" onclick="multiply(1)">*2</button></td>
                                         <td><button type="button" id="add1" onclick="add(1)">+1</button></td>
-                                        <td id="binary">00000000</td>
+                                        <td id="binary">0</td>
                                         <td id="octal">0</td>
                                         <td id="hexadecimal">0</td>
                                         <td id="decimal">0</td>
@@ -279,14 +309,17 @@
                                 </table>
                             </div>
 
-                            <div class="col-12" style="background-color: rgba(0,0,0,0)" id="colorchange1">
+                            <div class="col-12" style="background-color: lightgreen">
                                 <div class="container-fluid" >
                                     <div class="row">
                                         <div class="col-sm">
                                             <!-- On/off toggles for bulbs-->
                                             <table class="table">
                                                 <tr>
-                                                    <td style="background-color: red; color: black"> "R" Value </td>
+                                                    <td> First Number </td>
+                                                    <td style="visibility: hidden">
+                                                        <button type="button" onclick="toggleOp()"> + or - </button>
+                                                    </td>
                                                     {% for i in range(0, 8) %}
                                                         <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
                                                             <br>
@@ -295,7 +328,8 @@
                                                     {% endfor %}
                                                 </tr>
                                                 <tr>
-                                                    <td style="background-color: red; color: black" id="decimalR">000</td>
+                                                    <td id="decimalR1">000</td>
+                                                    <td style="visibility: hidden"><input type='text' Value="-" size="1" readonly></td>
                                                     {% for i in range(0, 8) %}
                                                         <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
                                                     {% endfor %}
@@ -306,14 +340,17 @@
                                 </div>
                             </div>
 
-                            <div class="col-12" style="background-color: rgba(255,255,255,0)" id="colorchange2">
+                            <div class="col-12" style="background-color: lightgreen">
                                 <div class="container-fluid" >
                                     <div class="row">
                                         <div class="col-sm">
                                             <!-- On/off toggles for bulbs-->
                                             <table class="table">
                                                 <tr>
-                                                    <td style="background-color: green; color: black"> "G" Value </td>
+                                                    <td> Second Number </td>
+                                                    <td style="background-color: darkseagreen">
+                                                        <button type="button" id="operatorbutton" onclick="toggleOp()"> Toggle + or - </button>
+                                                    </td>
                                                     {% for i in range(8, 16) %}
                                                         <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
                                                             <br>
@@ -322,8 +359,9 @@
                                                     {% endfor %}
                                                 </tr>
                                                 <tr>
-                                                    <td style="background-color: green; color: black" id="decimalG">000</td>
-                                                    {% for i in range(8, 16) %}
+                                                    <td id="decimalR2">000</td>
+                                                    <td style="background-color: darkseagreen"><input type='text' id='operator' Value="-" size="1" readonly></td>
+                                                    {% for i in range(8,16) %}
                                                         <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
                                                     {% endfor %}
                                                 </tr>
@@ -333,25 +371,28 @@
                                 </div>
                             </div>
 
-                            <div class="col-12" style="background-color: rgba(0,0,0,0)" id="colorchange3">
+                            <div class="col-12" style="background-color: lightgreen">
                                 <div class="container-fluid" >
                                     <div class="row">
                                         <div class="col-sm">
                                             <!-- On/off toggles for bulbs-->
                                             <table class="table">
                                                 <tr>
-                                                    <td style="background-color: blue; color: white"> "B" Value </td>
-                                                    {% for i in range(16, 24) %}
-                                                        <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
+                                                    <td style="background-color: darkgreen; color: white"> Output
+                                                        <div id="operator" style="visibility: hidden">0</div>
+                                                        <div id="decimalR3">Dec: 0</div>
+                                                    </td>
+                                                    {% for i in range(16, 25) %}
+                                                        <td style="display: none"><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
                                                             <br>
-                                                            <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
+                                                            <button type="button" id="butt{{i}}" style="display: none" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
                                                         </td>
                                                     {% endfor %}
                                                 </tr>
                                                 <tr>
-                                                    <td style="background-color: blue; color: white" id="decimalB">000</td>
-                                                    {% for i in range(16, 24) %}
-                                                        <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
+                                                    <td style="background-color: darkgreen; color: white" id="outputR3">Bin: 000000000</td>
+                                                    {% for i in range(16, 25) %}
+                                                        <td style="display: none"><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
                                                     {% endfor %}
                                                 </tr>
                                             </table>
