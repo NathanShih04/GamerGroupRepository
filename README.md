@@ -19,8 +19,8 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 ## Time Table 
 ### Sprint 7,8 Week 7  
 
-# [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
-# [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
+[Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice) and 
+[Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
 
 #### Progress
 | **Task** | **Evidence** |
