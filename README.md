@@ -16,7 +16,7 @@
 8. [Sprint 5,6 Week 6- Development](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
 9. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
-## Contributors
+## QUIZ 2 Table/Contributers
 
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
