@@ -11,10 +11,10 @@
       
       [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
 5. [Sprint 0 - Introduction]()
-6. [Sprint 1,2 - Innovation]()
-7. [Sprint 3,4 - Prototyping]()
-8. [Sprint 5,6 - Development]()
-9. [Sprint 7, 8 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
+6. [Sprint 1,2 Week 4- Innovation]()
+7. [Sprint 3,4 Week 5- Prototyping]()
+8. [Sprint 5,6 Week 6- Development](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
+9. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
 ## Contributors
 
@@ -46,7 +46,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Kurtis Score | (_ / 8)  |
 | Everitt Score | (_ / 8)  |
 | Colin Score | (_ / 8)  |
-| Jacksono Score | (_ / 8)  |
+| Jackson Score | (_ / 8)  |
 
 # [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
 # [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
