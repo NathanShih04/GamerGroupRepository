@@ -1,6 +1,8 @@
 # AP CSP Period 3: Team Awawa
 ## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
+## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
+## [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
 ## Table of Contents
 1. [Quiz 2](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
@@ -27,10 +29,6 @@
 | Everitt Cheng | [@NinjaBreadLord](https://github.com/NinjaBreadLord/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NinjaBreadLord) |
 | Kurtis Kwan | [@Naevey](https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
-
-## Pairs and Shared Journals: 
-### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
-### [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
 
 ## Project Ideation
 ### Unique Idea
