@@ -10,11 +10,11 @@
       [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
       
       [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
-5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-6. [Sprint 1,2 - Innovation](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-7. [Sprint 3,4 - Prototyping](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-8. [Sprint 5,6 - Development](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-9. [Sprint 7, 8 - Logic Gates]()
+5. [Sprint 0 - Introduction]()
+6. [Sprint 1,2 - Innovation]()
+7. [Sprint 3,4 - Prototyping]()
+8. [Sprint 5,6 - Development]()
+9. [Sprint 7, 8 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
 ## Contributors
 
@@ -42,6 +42,9 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | **Category** | **Score** |
 | ------------- | ------------- |
 | Overall Score | (_ / 6)  |
+
+[Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
+[Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
 
 #### Progress
 | **Task** | **Evidence** |
