@@ -2,7 +2,7 @@
 ## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## Table of Contents
-1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
+1. [Quiz 2](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
 4. Project Ideation:
@@ -19,8 +19,8 @@
 11. [Sprint 5,6 Week 6- RGB](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
 12. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
-## Contributors
-
+## Quiz 2
+| **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
 | Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=KoolKidKai) | 
