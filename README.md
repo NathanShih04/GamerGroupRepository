@@ -18,15 +18,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 
 ## Time Table 
 ### Sprint 7,8 Week 7  
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| Overall Score | (_ / 8)  |
-| Nathan Score | (_ / 8)  |
-| Kurtis Score | (_ / 8)  |
-| Everitt Score | (_ / 8)  |
-| Colin Score | (_ / 8)  |
-| Jackson Score | (_ / 8)  |
 
 # [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
 # [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
