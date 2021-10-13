@@ -6,23 +6,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
 ## [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
-## Table of Contents
-1. [Quiz 2](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
-2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
-3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
-4. Project Ideation:
-
-      [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
-      
-      [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
-5. [Sprint 0 - Introduction]()
-6. [Sprint 1,2 Week 1- Greet](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-1-week-1)
-7. [Sprint 1,2 Week 2- Greet](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-2-week-2)
-8. [Sprint 3,4 Week 3- Prototype Layout](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-3-week-3)
-9. [Sprint 3,4 Week 4- Binary Math Hacks](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-4-week-4)
-10. [Sprint 5,6 Week 5- Time Boxing](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-5-week-5)
-11. [Sprint 5,6 Week 6- RGB](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
-12. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
 ## Quiz 2
 | **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
