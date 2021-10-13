@@ -11,12 +11,15 @@
       
       [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
 5. [Sprint 0 - Introduction]()
-6. [Sprint 1,2 Week 4- Innovation]()
-7. [Sprint 3,4 Week 5- Prototyping]()
-8. [Sprint 5,6 Week 6- Development](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
-9. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
+6. [Sprint 1,2 Week 1- Greet]()
+7. [Sprint 1,2 Week 2- Greet]()
+8. [Sprint 3,4 Week 3- Prototype Layout]()
+9. [Sprint 3,4 Week 4- Binary Math Hacks]()
+10. [Sprint 5,6 Week 5- Time Boxing]()
+11. [Sprint 5,6 Week 6- RGB](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
+12. [Sprint 7, 8 Week 7 - Logic Gates](https://github.com/NathanShih04/GamerGroupRepository#sprint-78-week-7)
 
-## QUIZ 2 Table/Contributers
+## Contributors
 
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
