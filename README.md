@@ -13,7 +13,7 @@
 5. [Sprint 0 - Introduction]()
 6. [Sprint 1,2 Week 1- Greet](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-1-week-1)
 7. [Sprint 1,2 Week 2- Greet](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-2-week-2)
-8. [Sprint 3,4 Week 3- Prototype Layout]()
+8. [Sprint 3,4 Week 3- Prototype Layout](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-3-week-3)
 9. [Sprint 3,4 Week 4- Binary Math Hacks](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-4-week-4)
 10. [Sprint 5,6 Week 5- Time Boxing](https://github.com/NathanShih04/GamerGroupRepository/blob/main/README.md#sprint-5-week-5)
 11. [Sprint 5,6 Week 6- RGB](https://github.com/NathanShih04/GamerGroupRepository#sprint-56-week-6)
