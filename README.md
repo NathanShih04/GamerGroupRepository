@@ -32,13 +32,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
 
 ### Sprint 5,6 Week 6   
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| Planning | (_ / 1)  |
-| Team Technicals | (_ / 2)  |
-| Individual Technicals (everyone) | (_ / 2)  |
-| Overall Score | (_ / 5)  |
 
 #### Progress
 | **Task** | **Evidence** |
@@ -50,10 +43,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Kurtis: Worked on fixing RGB | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/8b31ee228f790040165850ad708775d786c5dfcc)  | 
 
 ### Sprint 5 Week 5   
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| TPT | (_ / 3)  |
 
 #### Progress
 | **Task** | **Evidence** |
