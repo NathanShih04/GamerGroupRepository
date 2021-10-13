@@ -7,7 +7,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 ## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
 ## [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
 
-## Quiz 2
+## POP QUIZ
 | **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
