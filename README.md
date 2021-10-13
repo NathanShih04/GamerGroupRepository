@@ -43,8 +43,8 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | ------------- | ------------- |
 | Overall Score | (_ / 6)  |
 
-## [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
-## [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
+# [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
+# [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
 
 #### Progress
 | **Task** | **Evidence** |
