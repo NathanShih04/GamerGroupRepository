@@ -1,4 +1,7 @@
 # AP CSP Period 3: Team Awawa
+## Project Ideation
+### Unique Idea
+We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
 ## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
@@ -29,10 +32,6 @@
 | Everitt Cheng | [@NinjaBreadLord](https://github.com/NinjaBreadLord/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NinjaBreadLord) |
 | Kurtis Kwan | [@Naevey](https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
-
-## Project Ideation
-### Unique Idea
-We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
 
 ## Time Table 
 ### Sprint 7,8 Week 7  
