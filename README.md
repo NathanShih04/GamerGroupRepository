@@ -21,6 +21,7 @@
 
 ## Quiz 2
 | **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
+| ------------- | ------------- || ------------- | ------------- | ------------- |
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
 
 | Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=KoolKidKai) | 
