@@ -41,7 +41,12 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Grading
 | **Category** | **Score** |
 | ------------- | ------------- |
-| Overall Score | (_ / 6)  |
+| Overall Score | (_ / 8)  |
+| Nathan Score | (_ / 8)  |
+| Kurtis Score | (_ / 8)  |
+| Everitt Score | (_ / 8)  |
+| Colin Score | (_ / 8)  |
+| Jacksono Score | (_ / 8)  |
 
 # [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice)
 # [Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
