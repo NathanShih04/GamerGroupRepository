@@ -1,64 +1,37 @@
 # AP CSP Period 3: Team Awawa
-## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
-## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
-## Table of Contents
-1. [Contributors](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
-2. [Pair Share Journals - Colin and Everitt](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
-3. [Pair Share Journals - Jackson,Nathan, and Kurtis](https://docs.google.com/document/d/12EApVGAT4plnJyENvVqkH8lRo8ONJ57qtWgcuG4pe5E/edit#)
-4. Project Ideation:
-
-      [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
-      
-      [BrainWrite](https://docs.google.com/document/d/1tz7A3Lp6vaa3a2ihFki3gpXrv0AbuLO8AQ0fRD_HylU/edit?usp=sharing)
-5. [Sprint 0 - Introduction](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-6. [Sprint 1,2 - Innovation](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-7. [Sprint 3,4 - Prototyping](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-8. [Sprint 5,6 - Development](https://www.loom.com/share/18e1d69820c94d1c984c99982b04e734)
-
-## Contributors
-
-| Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
-
-| Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=KoolKidKai) | 
-
-| Everitt Cheng | [@NinjaBreadLord](https://github.com/NinjaBreadLord/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NinjaBreadLord) |
-
-| Kurtis Kwan | [@Naevey](https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
-
-| Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
-
-## Pairs and Shared Journals: 
-### [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
-### [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
-
 ## Project Ideation
 ### Unique Idea
-We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme.
+We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme. [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
+## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
+## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
+## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
+## [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
+
+## POP QUIZ
+| **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
+| Colin Howard | [@KoolKidKai](https://github.com/KoolKidKai) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/KoolKidKai) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=KoolKidKai) | 
+| Everitt Cheng | [@NinjaBreadLord](https://github.com/NinjaBreadLord/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NinjaBreadLord) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NinjaBreadLord) |
+| Kurtis Kwan | [@Naevey](https://github.com/Naevey/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/Naevey) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=Naevey) |
+| Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
 
 ## Time Table 
 ### Sprint 7,8 Week 7  
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| Overall Score | (_ / 6)  |
+
+[Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice) and 
+[Review Ticket](https://github.com/NathanShih04/GamerGroupRepository/issues/50)
 
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
 | Nathan: Worked on Signed and Unsigned Addition | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/3706bf614e6fafef7732d9890e64b0705cc338ee)  |
-| Colin:  | [Ticket]()  |
-| Jackson:  | [Ticket]()  |
-| Everitt:  | [Ticket]()  |
+| Colin: Worked on Logic Gates mini lab | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/4b761dfe367bea58c79642414ca7b4a19181c954)  |
+| Jackson: Created shift left and right on binary page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/6927402ab1f5dddf53e029fdfd690b21b71c7e93)  |
+| Everitt: Created Unicode column on the Binary clicker page | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e23830b671cf1bccaac0b41c230e61d8e28fca35)  |
 | Kurtis: Worked on Color Codes | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/0d1fc07662b0da2db1ff96d2c8f3e03dd55cc0e6)  | 
 
 ### Sprint 5,6 Week 6   
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| Planning | (_ / 1)  |
-| Team Technicals | (_ / 2)  |
-| Individual Technicals (everyone) | (_ / 2)  |
-| Overall Score | (_ / 5)  |
 
 #### Progress
 | **Task** | **Evidence** |
@@ -70,10 +43,6 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Kurtis: Worked on fixing RGB | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/8b31ee228f790040165850ad708775d786c5dfcc)  | 
 
 ### Sprint 5 Week 5   
-#### Grading
-| **Category** | **Score** |
-| ------------- | ------------- |
-| TPT | (_ / 3)  |
 
 #### Progress
 | **Task** | **Evidence** |
