@@ -1,40 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <p>
+        click the turtle
+    </p>
     <meta charset="UTF-8">
     <title>Turtle Clicker</title>
 
 </head>
-</script>
+
+
 <body>
+<img src="/static/tortclicker.png" style="width:1400px;height:800px"
+<button style="width:800px;height:800px;color:white;border-color:white;border:0px" onclick="displaycount()"></button >
+<p id="carrier"> 0 </p>
 
 </body>
-</html>
 
-<p id="clickCount"></p>
-</html>
+
+
+<script>
+
+var count =(function () {
+
+    var counter = 0;
+    return function() {return counter +=1;}
+})();
+
+function displaycount(){
+    document.getElementById("carrier").innerHTML = count();
+}
+
 </script>
-    <input type="image" name="Turtle Clicker" id="turtleClick" onclick=function src="/static/baseturtle.png" alt="Image of turtle">
 
-    <script language = "javascript">
-        var count=0
-        function="increaseVar"{
-            count==count + 1;
-            if (count>=0;
-                document=getElementById("clickCount").innerHTML = count;
+</body>
 
-        }
-    </script>
-
-<button class="button-home">Turtle Clicks</button>
-
-    <script language = "javascript">
-        let buttonHome=document.querySelector(".button-home");
-        let CountButtonHomeClicks=0;
-
-        buttonHome.addEventListener("click", function() {
-            CountButtonHomeClicks += 1;
-            console.log(CountButtonHomeClicks);
-        });
-    </script>
-<header print=CountButtonHomeClicks </header>
+</html>
