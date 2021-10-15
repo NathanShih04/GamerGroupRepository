@@ -5,7 +5,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 ## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
-## [Colin and Everitt Journal](https://docs.google.com/document/d/11-R-QNkYjmFrZjZqNOyDZi-k5s93mOe0XmhKV2xy-h4/edit#)
+## [Colin and Everitt Journal](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 
 ## POP QUIZ
 | **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
