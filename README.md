@@ -17,6 +17,18 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
 
 ## Time Table 
+### Sprint 7,8 Week 8  
+
+#### Progress
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan: Created a Turtle Image Carousel that can flip through different pictures | [Ticket](98a0e8c07ac85983619d1613e0c8f35af7ea2205)  |
+| Colin:  | [Ticket]()  |
+| Jackson:  | [Ticket]()  |
+| Everitt:  | [Ticket]()  |
+| Kurtis:  | [Ticket]()  | 
+
+
 ### Sprint 7,8 Week 7  
 
 [Video](https://www.youtube.com/watch?v=F8wPncMrYLg&ab_channel=ABowlOfRice) and 
