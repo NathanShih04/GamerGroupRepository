@@ -22,7 +22,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 #### Progress
 | **Task** | **Evidence** |
 | ------------- | ------------- |
-| Nathan: Created a Turtle Image Carousel that can flip through different pictures | [Ticket](98a0e8c07ac85983619d1613e0c8f35af7ea2205)  |
+| Nathan: Created a Turtle Image Carousel that can flip through different pictures | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/98a0e8c07ac85983619d1613e0c8f35af7ea2205)  |
 | Colin:  | [Ticket]()  |
 | Jackson:  | [Ticket]()  |
 | Everitt:  | [Ticket]()  |
