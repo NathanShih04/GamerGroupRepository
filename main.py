@@ -15,7 +15,7 @@ def index():
 
 @app.route('/Monkey Reaction/')
 def monkey():
-    return render_template("monkeyreaction.html")
+    return render_template("monkeyreaction/monkeyreaction.html")
 
 
 @app.route('/Turtle Clicker/')
@@ -145,7 +145,7 @@ def tclicker():
 
 @app.route('/mreaction/')
 def mreaction():
-    return render_template("monkeyreaction.html")
+    return render_template("monkeyreaction/monkeyreaction.html")
 @app.route('/unsignedaddition/')
 def unsignedaddition():
     return render_template("/labs/unsignedaddition.html")
