@@ -26,7 +26,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Colin:  | [Ticket]()  |
 | Jackson:  | [Ticket]()  |
 | Everitt:  | [Ticket]()  |
-| Kurtis:  | [Ticket]()  | 
+| Kurtis: Changed website icon. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/292b34a551430b08908d8422a8647a1b038b1418)  | 
 
 
 ### Sprint 7,8 Week 7  
