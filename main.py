@@ -13,6 +13,11 @@ def index():
     return render_template("index.html")
 
 
+@app.route('/Monkey Reaction/')
+def monkey():
+    return render_template("monkeyreaction.html")
+
+
 @app.route('/Turtle Clicker/')
 def turtle():
     return render_template("turtleclicker.html")
@@ -138,6 +143,9 @@ def binary():
 def tclicker():
     return render_template("turtleclicker.html")
 
+@app.route('/mreaction/')
+def mreaction():
+    return render_template("monkeyreaction.html")
 
 @app.route('/rgb/')
 def rgb():
