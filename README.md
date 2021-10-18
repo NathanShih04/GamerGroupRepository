@@ -23,7 +23,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | **Task** | **Evidence** |
 | ------------- | ------------- |
 | Nathan: Created a Turtle Image Carousel that can flip through different pictures | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/98a0e8c07ac85983619d1613e0c8f35af7ea2205)  |
-| Colin:  | [Ticket]()  |
+| Colin: Created turtle clicker | [Ticket]()  |
 | Jackson:  | [Ticket]()  |
 | Everitt: Worked on Monkey Reaction Test | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e6a7bada6e72b3205a773e502ee5ddfa0c534b6b)  |
 | Kurtis: Changed website icon. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/292b34a551430b08908d8422a8647a1b038b1418)  | 
