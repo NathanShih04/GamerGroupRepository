@@ -27,7 +27,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Jackson:  | [Ticket]()  |
 | Everitt: Worked on Monkey Reaction Test | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/e6a7bada6e72b3205a773e502ee5ddfa0c534b6b)  |
 | Kurtis: Changed website icon. | [Ticket](https://github.com/NathanShih04/GamerGroupRepository/commit/292b34a551430b08908d8422a8647a1b038b1418)  | 
-[Website plans for the future](https://docs.google.com/document/d/1rrQ_LRejldWRcKcY2OpWgP84yWiOKypIfexTtAwT5ZM/edit?usp=sharing)
+[Key features planned for N@tM](https://docs.google.com/document/d/1rrQ_LRejldWRcKcY2OpWgP84yWiOKypIfexTtAwT5ZM/edit?usp=sharing)
 
 ### Sprint 7,8 Week 7  
 
