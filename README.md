@@ -17,7 +17,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
 
 ## Time Table 
-###Individual Final Videos (Part 1)
+### Individual Final Videos (Part 1)
 | Name  | Video Link |
 | ------------- | ------------- |
 | Everitt Cheng | https://www.youtube.com/watch?v=z_zFjf_dWuw&ab_channel=ABowlOfRice |
