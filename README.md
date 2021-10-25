@@ -17,6 +17,15 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
 
 ## Time Table 
+###Individual Final Videos (Part 1)
+| Name  | Video Link |
+| ------------- | ------------- |
+| Everitt Cheng | https://www.youtube.com/watch?v=z_zFjf_dWuw&ab_channel=ABowlOfRice |
+| Kurtis Kwan | https://www.loom.com/share/be99f333943046e8af4e7ea4f7f6ed11 | 
+| Nathan Shih | https://www.loom.com/share/43534134fa384d4d9bf9bea446aaf9b8  |
+| Colin Howard | https://www.loom.com/share/c82fb383dbe442eba3ab9ea39c9d51c8  |
+| Jackson Golding | https://www.loom.com/share/7997eb944d4647868face5de22c15447  |
+
 ### Sprint 7,8 Week 8  
 
 #### Progress
