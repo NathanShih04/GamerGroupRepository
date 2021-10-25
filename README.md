@@ -18,13 +18,20 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 
 ## Time Table 
 ### Individual Final Videos (Part 1)
-| Name  | Video Link |
-| ------------- | ------------- |
-| Everitt Cheng | https://www.youtube.com/watch?v=z_zFjf_dWuw&ab_channel=ABowlOfRice |
-| Kurtis Kwan | https://www.loom.com/share/be99f333943046e8af4e7ea4f7f6ed11 | 
-| Nathan Shih | https://www.loom.com/share/43534134fa384d4d9bf9bea446aaf9b8  |
-| Colin Howard | https://www.loom.com/share/c82fb383dbe442eba3ab9ea39c9d51c8  |
-| Jackson Golding | https://www.loom.com/share/7997eb944d4647868face5de22c15447  |
+| Name  | Video Link | Scrum Team Scores and Comments |
+| ------------- | ------------- | ------------- |
+| Everitt Cheng | https://www.youtube.com/watch?v=z_zFjf_dWuw&ab_channel=ABowlOfRice | Nathan: Total Score for Everitt - 5.75/6
+First Topic - Scrum Board Collaboration - 2/2 Demonstrates college board topic 1.1 (collaboration) and walks through the scrum board and its effects.
+Second Topic - Binary - 1.75/2 Shows the binary page at 0:55 and demonstrates College Board topic 2.1 (Binary). Could have demonstrated a little bit more knowledge of binary and how it works. 
+Third Topic - Conditional Statements - 2/2 Demonstrates college board topic 3.6 (conditionals) and explains how the conditionals work in the code and how it translates into the website.
+(+) The explanation of the scrum board and how it helped was very clear (0:18)
+(+) Did a good job of walking through the Binary page and how it works (0:52) 
+(+) Good job with explaining the code for the conditionals (1:42) 
+(-) Could have gone more into depth when explaining the binary conversions |
+| Kurtis Kwan | https://www.loom.com/share/be99f333943046e8af4e7ea4f7f6ed11 | |
+| Nathan Shih | https://www.loom.com/share/43534134fa384d4d9bf9bea446aaf9b8  | |
+| Colin Howard | https://www.loom.com/share/c82fb383dbe442eba3ab9ea39c9d51c8  | |
+| Jackson Golding | https://www.loom.com/share/7997eb944d4647868face5de22c15447  | |
 
 ### Sprint 7,8 Week 8  
 
