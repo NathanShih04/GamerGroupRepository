@@ -21,7 +21,7 @@ We're going to have a website that has a Turtle clicker and tracks the cps of th
 | Name  | Video Link | Scrum Team Scores and Comments |
 | ------------- | ------------- | ------------- |
 | Everitt Cheng | https://www.youtube.com/watch?v=z_zFjf_dWuw&ab_channel=ABowlOfRice | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
-| Kurtis Kwan | https://www.loom.com/share/be99f333943046e8af4e7ea4f7f6ed11 https://www.loom.com/share/28610b24a0054cc88b8988714f854178 | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
+| Kurtis Kwan | https://www.loom.com/share/cd05461f44114910b5f155c2cf2642f0 | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
 | Nathan Shih | https://www.loom.com/share/43534134fa384d4d9bf9bea446aaf9b8  | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
 | Colin Howard | https://www.loom.com/share/c82fb383dbe442eba3ab9ea39c9d51c8  | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
 | Jackson Golding | https://www.loom.com/share/7997eb944d4647868face5de22c15447  | [Doc with Scores and Comments](https://docs.google.com/document/d/1ARqOK0LFPK0w-JjtQQ0uzWd-3lHc_NO8m6WgXY-K7IM/edit?usp=sharing) |
