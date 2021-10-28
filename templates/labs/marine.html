@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>marine trivia game?</title>
+    <script>
+        function showAns() {
+            if (document.getElementById('answer').style.display == 'none') {
+                document.getElementById('answer').style.display = 'block'
+                document.getElementById('toggler').innerText='Hide Answer'
+            }
+            else {
+                document.getElementById('answer').style.display = 'none'
+                document.getElementById('toggler').innerText = 'Show Answer'
+            }
+        }
+    </script>
+
+</head>
+<body>
+<h1 style="margin-top:25px; font-size: 50px ">Learn Trivia</h1>
+<div class="maincontainer">
+    {% for topic in question %}
+        <div class="questioncontainer">
+            <h3 style="margin-bottom: 25px;font-size: 30px">{{ topic['question']}}?</h3>
+            <button class="button" id="toggler" onclick="showAns()" style="margin-bottom: 25px">Show Answer</button>
+            <a class = "button" href="/marine/">New Fact</a>
+            <p id="answer" style="display:none;font-size: 20px;  color: #000000">{{ topic['answer'] }}</p>
+        </div>
+    {% endfor %}
+</div>
+</body>
+</html>
