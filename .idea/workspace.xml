@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="changed page icon">
-      <change afterPath="$PROJECT_DIR$/templates/labs/marine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cssFiles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cssFiles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/labs/marine.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/labs/marine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layouts/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/turtleclicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/turtleclicker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +165,8 @@
       <workItem from="1635368346935" duration="2144000" />
       <workItem from="1635376109022" duration="1173000" />
       <workItem from="1635454956484" duration="2307000" />
+      <workItem from="1635532059814" duration="900000" />
+      <workItem from="1635624978788" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="General Edits">
       <created>1631298622960</created>
@@ -386,7 +390,7 @@
     <SUITE FILE_PATH="coverage/gamergroup$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631505287071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask__main_py_.coverage" NAME="Flask Coverage Results" MODIFIED="1631213137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631300364174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1635456855184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1635625258830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1632854783250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository2$GamerGroupRepository2.coverage" NAME="GamerGroupRepository2 Coverage Results" MODIFIED="1631212966944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
