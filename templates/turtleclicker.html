@@ -2,26 +2,44 @@
 {% include "layouts/navbar.html" %}
 
 <html lang="en">
+
 <head>
 
-    <p>
-        click the turtle
-    </p>
-    <meta charset="UTF-8">
-    <title>Turtle Clicker</title>
+    <h1>
+        CLICK THE TURTLE
+    </h1>
 
 </head>
 
 
 <body>
-<img src="/static/tortclicker.png" style="width:1400px;height:800px"
+<img src="/static/tortclicker.png" alt="" style="width:1400px;height:800px;"
 <button style="width:800px;height:800px;color:white;border-color:white;border:0px" onclick="displaycount()"></button >
 <p id="carrier"> 0 </p>
+</body>
 
+
+
+<script>
+
+var count =(function () {
+
+    var counter = 0;
+    return function() {return counter +=1;}
+})();
+
+function displaycount(){
+    document.getElementById("carrier").innerHTML = count();
+        if count()>=10
+
+
+}
+
+</script>
 
 <p>
     <b>
-    <font size="+5">Tom the Tort's Image Carousel of His Fun Times</font>
+        <font size="+5">Tom the Tort's Image Carousel of His Fun Times</font>
     </b>
 </p>
 <!-- Slideshow container -->
@@ -203,22 +221,6 @@
 </script>
 
 </body>
-
-
-
-<script>
-
-var count =(function () {
-
-    var counter = 0;
-    return function() {return counter +=1;}
-})();
-
-function displaycount(){
-    document.getElementById("carrier").innerHTML = count();
-}
-
-</script>
 
 </body>
 

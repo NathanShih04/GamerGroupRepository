@@ -1,7 +1,5 @@
 import json
 
-from flask_restful.inputs import url
-
 2  # import "packages" from flask
 from flask import Flask, render_template, request
 from image import image_data
@@ -155,6 +153,10 @@ def tclicker():
     return render_template("turtleclicker.html")
 
 
+@app.route('/monkeyhelp/')
+def monkeyhelp():
+    return render_template("monkeyhelp.html")
+
 @app.route('/mreaction/')
 def mreaction():
     return render_template("monkeyreaction/monkeyreaction.html")
@@ -203,6 +205,11 @@ def study():
 def web():
     path = Path(app.root_path) / "static" / "assets"
     return render_template('labs/website.html', images=image_data(path))
+
+import requests
+@app.route('/monkeyproject/')
+def monkeyproject():
+    return render_template('monkeyproject.html')
 
 # runs the application on the development server
 if __name__ == "__main__":
