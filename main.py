@@ -28,6 +28,10 @@ def monkey():
 def turtle():
     return render_template("turtleclicker.html")
 
+@app.route('/Website Generator/')
+def website():
+    return render_template("website.html")
+
 
 # connects /kangaroos path to render kangaroos.html
 @app.route('/kurtis/')
@@ -195,6 +199,10 @@ def study():
     response = requests.request("GET", url, headers=headers, params=querystring)
     output = json.loads(response.text)
     return render_template('labs/marine.html', question=output)
+@app.route('/website/')
+def web():
+    path = Path(app.root_path) / "static" / "assets"
+    return render_template('labs/website.html', images=image_data(path))
 
 # runs the application on the development server
 if __name__ == "__main__":

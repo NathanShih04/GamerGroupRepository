@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Random Website Generator</title>
+</head>
+
+<body>
+<h1>Ocean Conservation Website Generator</h1>
+<h2>Explore ways you can make an impact on our oceans!</h2>
+<div id="container">
+    <button id="btn">New Website!</button>
+    <div id="output">Press the button above to explore a conservation website</div>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
+
+<style>
+    body {
+        background-color: #001d4d;
+    }
+
+    #container {
+        background-color: darkgreen;
+        border: 5px solid pink;
+        height: 275px;
+        width: 750px;
+        margin: auto;
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+        color: lightpink;
+    }
+
+    h2 {
+        text-align: center;
+        color: lightpink;
+    }
+
+    #btn {
+        margin: 50px auto;
+        height: 50px;
+        width: 250px;
+        font-size: 22px;
+        background-color: rgb(192, 191, 191);
+
+    }
+
+    #output {
+        margin: 25px auto;
+        font-size: 26px;
+        color: lightpink;
+    }
+</style>
+
+<script>
+    let btn = document.getElementById('btn');
+    let output = document.getElementById('output');
+    let websites = [
+        'Ocean Conservancy - https://oceanconservancy.org/',
+        'The Bay Foundation - https://www.santamonicabay.org/who-we-are/mission-and-history/',
+        'BlueVoice - https://www.bluevoice.org/',
+        'Billion Oyster Project - https://www.billionoysterproject.org/',
+        'Conservation International - https://www.conservation.org/home',
+        'Coral Reef Alliance - https://coral.org/en/',
+        'Coral Restoration Foundation - https://www.coralrestoration.org/',
+        'GreenWave - https://www.greenwave.org/',
+        'Marine Conservation Institute - https://marine-conservation.org/',
+        'Marine Fish Conservation Network - https://conservefish.org/',
+        'Mission Blue - https://mission-blue.org/about/',
+        'Monterey Bay Aquarium - https://www.montereybayaquarium.org/',
+        'Oceana - https://oceana.org/',
+        'SeaSave Foundation - https://seasave.org/',
+        'Sea Shepherd - https://seashepherd.org/',
+        'The Ocean Project - https://theoceanproject.org/',
+        'Oceanic Global - https://oceanic.global/',
+        'Reef Relief - https://www.reefrelief.org/',
+        'Sea Turtle Conservancy - https://conserveturtles.org/'
+    ];
+
+    btn.addEventListener('click', function(){
+        var randomWebsite = websites[Math.floor(Math.random() * websites.length)]
+        output.innerHTML = randomWebsite;
+    })
+</script>
