@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="Everitt's Push">
-      <change afterPath="$PROJECT_DIR$/templates/cssFiles/websitestyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/javascriptFiles/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/labs/website.html" afterDir="false" />
+    <list default="true" id="5ab27152-05f5-4a56-a258-48751ee5da62" name="Changes" comment="touched up on trivia game">
+      <change afterPath="$PROJECT_DIR$/static/assets/_96317895_gettyimages-164067218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/somemonkeysc.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/blue-square-16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/blue-square-16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/lassen-volcano-256.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/lassen-volcano-256.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/labs/marine.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/labs/marine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/monkeyhelp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/monkeyhelp.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -68,8 +63,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static/assets" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -94,7 +87,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Downloaded Apps\Coding Apps\GamerGroupRepository\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\pythong\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -172,11 +165,12 @@
       <workItem from="1635368346935" duration="2144000" />
       <workItem from="1635376109022" duration="1173000" />
       <workItem from="1635454956484" duration="2307000" />
-      <workItem from="1635533312373" duration="831000" />
-      <workItem from="1635535492021" duration="295000" />
-      <workItem from="1635789598488" duration="3642000" />
-      <workItem from="1635878243845" duration="3873000" />
-      <workItem from="1635914121196" duration="1910000" />
+      <workItem from="1635532059814" duration="900000" />
+      <workItem from="1635624978788" duration="438000" />
+      <workItem from="1635789613937" duration="1574000" />
+      <workItem from="1635880317550" duration="592000" />
+      <workItem from="1635962149251" duration="1313000" />
+      <workItem from="1636049374647" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="General Edits">
       <created>1631298622960</created>
@@ -353,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634519462026</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="touched up on trivia game">
+      <created>1635625413164</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1635625413164</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,17 +395,18 @@
     <MESSAGE value="logicc gate" />
     <MESSAGE value="changed page icon" />
     <MESSAGE value="monke on base page" />
-    <option name="LAST_COMMIT_MESSAGE" value="monke on base page" />
+    <MESSAGE value="touched up on trivia game" />
+    <option name="LAST_COMMIT_MESSAGE" value="touched up on trivia game" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631557246112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1632854783250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository3.coverage" NAME="GamerGroupRepository3 Coverage Results" MODIFIED="1631300944446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/gamergroup$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631505287071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository2$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631559445083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask__main_py_.coverage" NAME="Flask Coverage Results" MODIFIED="1631213137465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631300364174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1636049968939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1632854783250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository$Python.coverage" NAME="Python Coverage Results" MODIFIED="1631213651937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GamerGroupRepository2$GamerGroupRepository2.coverage" NAME="GamerGroupRepository2 Coverage Results" MODIFIED="1631212966944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/GamerGroupRepository$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1635916045421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository3$GamerGroupRepository3.coverage" NAME="GamerGroupRepository3 Coverage Results" MODIFIED="1631300944446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/GamerGroupRepository2$GamerGroupRepository.coverage" NAME="GamerGroupRepository Coverage Results" MODIFIED="1631559445083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

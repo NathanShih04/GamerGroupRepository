@@ -1,5 +1,8 @@
+
 <!DOCTYPE html>
 <!-- Template by quackit.com -->
+{% include "layouts/navbar.html" %}
+
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,7 +21,7 @@
         ​
         main {
             position: fixed;
-            top: 50px; /* Set this to the height of the header */
+            top: 100px; /* Set this to the height of the header */
             bottom: 50px; /* Set this to the height of the footer */
             left: 0;
             right: 230px; /* Set this to the width of the right column */
@@ -28,7 +31,7 @@
 
         #header {
             position: absolute;
-            top: 0;
+            top: 80;
             left: 0;
             width: 100%;
             height: 50px;
@@ -141,7 +144,11 @@
 
 <footer id="footer">
     <div class="innertube">
-        <p>Footer...</p>
+        <p>Monkeys and apes are facing increasing threats to their populations. <br>
+            From destruction of habitats to climate change,
+            monkey populations are dwindling and they need help now. <br> To the right are some links that you can visit to learn more or help out. </p>
+        <img src="/static/assets/somemonkeysc.jpg">
+        <img src="/static/assets/_96317895_gettyimages-164067218.jpg" style="width:300px;height:160px;">
     </div>
 </footer>
 
