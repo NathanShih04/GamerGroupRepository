@@ -1,13 +1,20 @@
 # AP CSP Period 3: Team Awawa
 ## Project Ideation
-### Unique Idea
-We're going to have a website that has a Turtle clicker and tracks the cps of the user. It we will also implement a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme. [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
+### Overview
+ Our original goal was to create a fun webiste with lots of minigames but we realized we could do more. We want to inform others in a fun, interesting environment. We wanted to help protect the animals that we love, so now, our main purpose is to spread awareness about the dangers surrounding many monkey, ape and turtle species as well as all other land and ocean species. They face the threats of extinction thanks to us, so we are responsible for spreading awareness and helping fix the problems we have caused. We want everyone to appreciate monkeys and turtles as much as we do, and hopefully help protect these beautiful creatures from danger so that we may coexisst with them for many more years. Many of our tabs are based on learning more about different species of animal as well as ways that we may help protect them. In addition to these learning opportunitiees, we will have some fun little minigames to play in between research, such as a Turtle clicker that tracks the clicks of the user. We will also implement an animal based trivia game. a reaction speed tracker that has a monkey theme. This works when a monkey sprite pops onto the screen and the user is prompted to click anywhere on the screen. The website will then return how long you took to react and click on the website. We are also planning on a green theme. [Wireframe](https://docs.google.com/drawings/d/1mLX47ycMErdh59YrlnN0HBTh9hMyTQiEKBE57kt6F_Y/edit)
+
+## [How to Use]
+The navbar located at the top allows you to navigate through the various pages of our website. The tabs towards the left are the main projects our website is based around, while the dropdowns towards the right are lab based projects with info about the individuals responsible for contributing to our website. Simply click the main tabs to explore. You can also find more info about contributions below on the rest of the ReadMe file.
+
+## [How to Contribute]
+On our main monkey help page, you will find various ways to contribute. This includes info about the species at risk as well as links to websites from exprts much more informed than we are. If you visit these tabs, you can help simply by learning more and spreading awareness of these issues. However if you truly care about the cause, we also have links to charities based solely on protecting these species. You can also help US directly by contacting us through our githubs seen below and giving suggestions on how to improve our website so that we can reach a greater audience.
+
 ## [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1)
 ## [Insights with Contributors and Commits](https://github.com/NathanShih04/GamerGroupRepository/graphs/contributors)
 ## [Kurtis, Nathan, and Jackson Journal](https://docs.google.com/document/d/1pQnAcAqgome6MvBoRHEPl9Of3VakcVU7TxHEOudmDuM/edit)
 ## [Colin and Everitt Journal](https://docs.google.com/document/d/1Rr8JoBTGQw8G8-LmMO8OdL1zfk7UA8VAcu_HHLMCKZo/edit?usp=sharing)
 
-## POP QUIZ
+## CONTRIBUTORS
 | **Name** | **Github Profile** | **Assigned Tasks** | **Scrum Board** | **Commits** |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Nathan Shih | [@NathanShih04](https://github.com/NathanShih04) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/NathanShih04) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=NathanShih04) |
