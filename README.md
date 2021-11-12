@@ -30,7 +30,7 @@ On our main monkey help page, you will find various ways to contribute. This inc
 | Nathan | [Individual Doc](https://docs.google.com/document/d/1VRAJD2Kua_NbwaBfl3gmK0HQBSW8ssNkuo5KXev75ME/edit?usp=sharing)  |
 | Colin | [Individual Doc](https://docs.google.com/document/d/1MD0-W0eYFuUCAmNZSCfYUl8ayaSieHxOHWUN4ndW2u8/edit?usp=sharing) |
 | Jackson | [Individual Doc](https://docs.google.com/document/d/1-WC8w_-Q1kjx_FrwYlvy0lvuFRp3Vak-9_q0uKY8imI/edit?usp=sharing)  |
-| Everitt | [Individual Doc](https://github.com/NathanShih04/GamerGroupRepository/commit/e6a7bada6e72b3205a773e502ee5ddfa0c534b6b)  |
+| Everitt | [Individual Doc](https://docs.google.com/document/d/13GKlGo3UgTplIVqRL-hfqka-_ogB_uEsB8X1aImJ4Kc/edit)  |
 | Kurtis | [Individual Doc](https://docs.google.com/document/d/1ZRARErXWBffportAcDacnb-Hf-wjrMwnDy8K7M8SQtw/edit?usp=sharing)  | 
 
 
