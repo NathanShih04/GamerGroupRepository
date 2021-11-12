@@ -24,6 +24,17 @@ On our main monkey help page, you will find various ways to contribute. This inc
 | Jackson Golding | [@K3wl-AidMan](https://github.com/K3wl-AidMan/) | [Tasks](https://github.com/NathanShih04/GamerGroupRepository/issues/assigned/K3wl-AidMan) | [Scrum Board](https://github.com/NathanShih04/GamerGroupRepository/projects/1) | [Commits](https://github.com/NathanShih04/GamerGroupRepository/commits?author=K3wl-AidMan) |
 
 ## Time Table 
+### N@tM Presentation and Walkabouts
+| **Task** | **Evidence** |
+| ------------- | ------------- |
+| Nathan | [Individual Doc](https://docs.google.com/document/d/1VRAJD2Kua_NbwaBfl3gmK0HQBSW8ssNkuo5KXev75ME/edit?usp=sharing)  |
+| Colin | [Individual Doc](https://github.com/NathanShih04/GamerGroupRepository/commit/93d738aed3ccbcad81041b9f6ad47fc0bd16426b)  |
+| Jackson | [Individual Doc](https://github.com/NathanShih04/GamerGroupRepository/commit/3fcb9e4d0bc8cae0e6f2d77a29b9ab3dbacf7a00)  |
+| Everitt | [Individual Doc](https://github.com/NathanShih04/GamerGroupRepository/commit/e6a7bada6e72b3205a773e502ee5ddfa0c534b6b)  |
+| Kurtis | [Individual Doc](https://github.com/NathanShih04/GamerGroupRepository/commit/292b34a551430b08908d8422a8647a1b038b1418)  | 
+
+
+
 ### Individual Final Videos (Part 1)
 | Name  | Video Link | Scrum Team Scores and Comments |
 | ------------- | ------------- | ------------- |
